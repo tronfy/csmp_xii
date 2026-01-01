@@ -1,0 +1,180 @@
+{
+	autofocus_id: "259A1B3D4B97164D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "simply_swords"
+	group: "18F67605EDDF8FE9"
+	icon: {
+		id: "simplyswords:runefused_gem"
+	}
+	id: "41CFDBD4B5A6A575"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D74ABAC137A93B8"
+			shape: "gear"
+			size: 1.0d
+			tasks: [{
+				id: "7A812C41A7376D04"
+				item: { count: 1, id: "simplyswords:runic_tablet" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5F5D87180621D9D8"]
+			id: "311A59C8FDF48CFD"
+			tasks: [{
+				id: "302A1B3BD8F23E1D"
+				item: { count: 1, id: "simplyswords:runefused_gem" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F5D87180621D9D8"]
+			id: "1C0FB67C4BDBE8E7"
+			tasks: [{
+				id: "3AEF56ED298AA4E3"
+				item: { count: 1, id: "simplyswords:netherfused_gem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["34B12630F4EE7A45"]
+			id: "5F5D87180621D9D8"
+			size: 1.0d
+			tasks: [{
+				id: "54F6DD2F02705885"
+				item: { count: 1, id: "simplyswords:empowered_remnant" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["31ABEA764D842717"]
+			id: "5A15160FB680C197"
+			tasks: [{
+				id: "51F9C60FAC44ECAD"
+				item: { count: 1, id: "simplyswords:enigma" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["31ABEA764D842717"]
+			id: "4B5652B54496F1BA"
+			tasks: [{
+				id: "22399B86170D196C"
+				item: { count: 1, id: "simplyswords:decaying_relic" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5F5D87180621D9D8"
+				"0D74ABAC137A93B8"
+			]
+			id: "259A1B3D4B97164D"
+			tasks: [{
+				id: "2C0E8DB94A16E6CD"
+				item: { count: 1, id: "simplyswords:contained_remnant" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"259A1B3D4B97164D"
+				"0D74ABAC137A93B8"
+			]
+			id: "31ABEA764D842717"
+			shape: "octagon"
+			size: 1.25d
+			tasks: [{
+				id: "2E8585BBCA8703EF"
+				item: { count: 1, id: "simplyswords:tampered_remnant" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B5652B54496F1BA"]
+			id: "2E7AC5756F8DBD35"
+			tasks: [{
+				id: "733B654B039241BB"
+				item: { count: 1, id: "simplyswords:magispear" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B5652B54496F1BA"]
+			id: "0C18BB82C7A2A704"
+			tasks: [{
+				id: "55A6BC653D3D24DD"
+				item: { count: 1, id: "simplyswords:magiblade" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0D74ABAC137A93B8"]
+			id: "7B7506A305E9FB10"
+			tasks: [{
+				id: "0137C248A19DEEB9"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simplyswords:runic_weapons)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B5652B54496F1BA"]
+			id: "13F835F99EF92BB2"
+			tasks: [{
+				id: "5E3C73F345DDBECC"
+				item: { count: 1, id: "simplyswords:magiscythe" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["31ABEA764D842717"]
+			id: "10D8C7C65C7A49AA"
+			tasks: [{
+				id: "03727E408E65221E"
+				item: { count: 1, id: "simplyswords:dormant_relic" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "34B12630F4EE7A45"
+			shape: "octagon"
+			size: 1.15d
+			tasks: [{
+				id: "1FABA2B3E7903EF2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simplyswords:uniques)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+	]
+}

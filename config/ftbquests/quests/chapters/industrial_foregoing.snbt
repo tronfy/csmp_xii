@@ -1,0 +1,273 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "industrial_foregoing"
+	group: "752D711293289634"
+	icon: {
+		id: "industrialforegoing:machine_frame_advanced"
+	}
+	id: "2EBAFE79E8391941"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["733099EB0AADD966"]
+			id: "7D094BB33793450F"
+			tasks: [{
+				id: "4774F048112D912B"
+				item: { count: 1, id: "industrialforegoing:latex_processing_unit" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "733099EB0AADD966"
+			tasks: [{
+				id: "586C5BF5ADBC4D3F"
+				item: { count: 1, id: "industrialforegoing:fluid_extractor" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D094BB33793450F"]
+			id: "54F0FC62BCEF730C"
+			tasks: [{
+				id: "2DF2D91C91E635D2"
+				item: { count: 1, id: "industrialforegoing:plastic" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["54F0FC62BCEF730C"]
+			id: "7DE401B2AE248DCF"
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				id: "1D84B8B07849711A"
+				item: { count: 1, id: "industrialforegoing:dissolution_chamber" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["07DE7B6895D05B02"]
+			id: "4BFED8E3B20C40E7"
+			shape: "diamond"
+			tasks: [{
+				id: "3CFB427EAB08D586"
+				item: { components: { "titanium:augments": { Efficiency: 0.8f } }, count: 1, id: "industrialforegoing:efficiency_addon_tier_2" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07DE7B6895D05B02"]
+			id: "0AD12FB9C9C6012B"
+			shape: "diamond"
+			tasks: [{
+				id: "0525FFCD4CA45B82"
+				item: { components: { "titanium:augments": { Speed: 3.0f } }, count: 1, id: "industrialforegoing:speed_addon_tier_2" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["07DE7B6895D05B02"]
+			id: "5752EDF3A2A5F8A7"
+			shape: "diamond"
+			tasks: [{
+				id: "2BBABA1DBD5C132A"
+				item: { components: { "titanium:augments": { Processing: 3.0f } }, count: 1, id: "industrialforegoing:processing_addon_tier_2" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DE401B2AE248DCF"]
+			id: "07DE7B6895D05B02"
+			shape: "gear"
+			tasks: [{
+				id: "275848FFA0967536"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["54F0FC62BCEF730C"]
+			id: "6E7BB36F0E49043E"
+			rewards: [{
+				id: "40990D7B149E4A83"
+				item: {
+					components: {
+						"titanium:augments": {
+							Range: 3.0f
+						}
+					}
+					count: 1
+					id: "industrialforegoing:range_addon_tier_3"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BF4559D15840202"
+				item: { count: 1, id: "industrialforegoing:mob_slaughter_factory" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["727C923ADB90CDE2"]
+			id: "494F6ABC939BE4CB"
+			shape: "octagon"
+			tasks: [{
+				id: "226262363FE73E51"
+				item: { count: 1, id: "industrialforegoing:mob_crusher" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"00200C2B34E7C8D6"
+				"7DE401B2AE248DCF"
+			]
+			id: "727C923ADB90CDE2"
+			tasks: [{
+				id: "54553F68DCA3A731"
+				item: { count: 1, id: "industrialforegoing:machine_frame_advanced" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6E7BB36F0E49043E"]
+			id: "00200C2B34E7C8D6"
+			tasks: [{
+				id: "63C1C6ABE32E542C"
+				item: { count: 1, id: "industrialforegoing:pink_slime_bucket" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["727C923ADB90CDE2"]
+			id: "14A7938AC343EFDC"
+			tasks: [{
+				id: "648BCBEBCDC90E7F"
+				item: { count: 1, id: "industrialforegoing:stasis_chamber" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"14A7938AC343EFDC"
+				"19A55AC7DFAECC8B"
+			]
+			id: "4F363B735541C89A"
+			tasks: [{
+				id: "57F6ABB4D85E8415"
+				item: { count: 1, id: "industrialforegoing:ether_gas_bucket" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F363B735541C89A"]
+			id: "0E94ED9853DC41B1"
+			tasks: [{
+				id: "35C5F0DD095C087B"
+				item: { count: 1, id: "industrialforegoing:hydroponic_bed" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["727C923ADB90CDE2"]
+			id: "7EBC5FC070FD10DD"
+			tasks: [{
+				id: "3A531F24D5800104"
+				item: { count: 1, id: "industrialforegoing:infinity_charger" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["494F6ABC939BE4CB"]
+			icon: {
+				id: "industrialforegoing:mob_duplicator"
+			}
+			id: "3A381C9462E9B068"
+			tasks: [
+				{
+					id: "62F00731F5C50F27"
+					item: { count: 1, id: "industrialforegoing:mob_duplicator" }
+					type: "item"
+				}
+				{
+					id: "1442AE7251A33DDD"
+					item: { count: 1, id: "industrialforegoing:mob_imprisonment_tool" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["727C923ADB90CDE2"]
+			icon: {
+				id: "industrialforegoing:fluid_laser_base"
+			}
+			id: "19A55AC7DFAECC8B"
+			tasks: [
+				{
+					id: "579E7607E6140355"
+					item: { count: 1, id: "industrialforegoing:fluid_laser_base" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4EA585C217E03FDF"
+					item: { count: 1, id: "industrialforegoing:laser_drill" }
+					type: "item"
+				}
+				{
+					id: "289529D5CF0B4869"
+					item: { count: 1, id: "industrialforegoing:purple_laser_lens" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7EBC5FC070FD10DD"]
+			id: "160A8107EE429D3A"
+			tasks: [{
+				id: "7474086CD0B00346"
+				item: { components: { "ftbfiltersystem:filter": "or(item(industrialforegoing:infinity_drill)item(industrialforegoing:infinity_saw)item(industrialforegoing:infinity_hammer)item(industrialforegoing:infinity_trident)item(industrialforegoing:infinity_backpack)item(industrialforegoing:infinity_launcher))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+	]
+}

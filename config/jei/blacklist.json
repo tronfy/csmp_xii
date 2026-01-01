@@ -1,0 +1,19 @@
+[
+  {"version":2},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_core"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_injector"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_stabilizer"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_prt_focus_ring"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_prt_in_rotor"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_prt_out_rotor"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_prt_rotor_full"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"draconicevolution:reactor_prt_stab_frame"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":0,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"poor","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":4000000,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"common","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":16000000,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"uncommon","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":80000000,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"rare","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":480000000,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"epic","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":3360000000,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"legendary","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":9223372036854775807,"industrialforegoing:infinity_item_special":false,"industrialforegoing:infinity_item_selected_tier":"artifact","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"industrialforegoing:infinity_nuke","components":{"industrialforegoing:infinity_item_power":9223372036854775807,"industrialforegoing:infinity_item_special":true,"industrialforegoing:infinity_item_selected_tier":"artifact","industrialforegoing:infinity_can_charge":true}},"type":"item_stack"}}
+]

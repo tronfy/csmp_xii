@@ -1,0 +1,1453 @@
+{
+	chapter.0BB3B7FCD4D66F80.title: "&ePowah"
+	chapter.0E965396577804A6.title: "Sophisticated Storage"
+	chapter.0EF3DCE2B421954B.title: "&6Create"
+	chapter.128A606323F55E81.title: "&cNether"
+	chapter.1D0385A60B3DC3EA.title: "&6Iron's Spells"
+	chapter.207FEE2E99C3A8C4.title: "&3Trinkets"
+	chapter.243AAB7BD79629F1.title: "&dAdvanced AE"
+	chapter.2551343C6BC745BF.title: "&cCataclysm"
+	chapter.28C1AD185099A633.title: "&bQIO"
+	chapter.2A069BB4027C2AAC.title: "Occultism"
+	chapter.2B95C83896AE1EEA.title: "&9Deeper and Darker"
+	chapter.2EBAFE79E8391941.title: "Industrial Foregoing"
+	chapter.330046FEA0594DE7.title: "&6Allthemodium"
+	chapter.3B118D76A9D69D89.title: "&6Apotheosis"
+	chapter.3C1B4E12BB2010CC.title: "&bHostile Neural Networks"
+	chapter.3D47DDF6D4291579.title: "&cMystical Agriculture"
+	chapter.40A4BDA60A03742F.title: "Forbidden and Arcanus"
+	chapter.41CFDBD4B5A6A575.title: "&bSimply Swords"
+	chapter.4C59101E6B26D5CB.title: "&bMekanism: &dAvançado"
+	chapter.4D8A6EE3E5861E5A.title: "&bMekanism: &aBásico"
+	chapter.525546D76EE2F3AA.title: "&dThe End"
+	chapter.52A9007C0EB92590.title: "&6Extended AE"
+	chapter.582F3AD1A81555C5.title: "&bApplied Energistics (AE)"
+	chapter.5970248A932D48B0.title: "&bJust Dire Things"
+	chapter.5D06CF0A0904FE0A.title: "&l&6 Capivara Pass"
+	chapter.604293FC096B218F.title: "&a Itens Úteis"
+	chapter.6793AABDC773FACF.title: "&dArs Nouveau"
+	chapter.70B68688C028D882.title: "Functional Storage"
+	chapter.72DD3367B58C639E.title: "&eMalum"
+	chapter.7335FE5BAE40582B.title: "Overworld"
+	chapter.74771FEF9E315687.title: "&b Bem vindo!"
+	chapter.76E030082232A2A0.title: "Productive Bees"
+	chapter_group.000F95BB17AC6A84.title: "Magia"
+	chapter_group.18F67605EDDF8FE9.title: "Exploração"
+	chapter_group.4A0794A238ABD6BA.title: "Intro"
+	chapter_group.590DE1031F4E6663.title: "Storage"
+	chapter_group.68D816761DB873F2.title: "Geração de Recursos"
+	chapter_group.752D711293289634.title: "Tech"
+	file.0000000000000001.title: "&dCSMP XI"
+	quest.0051732E9E4CF059.quest_desc: [
+		""
+		"{image:minecraft:block/trial_spawner_side_inactive width:50 height:50 align:center}"
+		""
+		""
+		"{@pagebreak}"
+		"  Ativar spawners da Trial Chamber enquanto está sob o efeito de &3Bad Omen&r&r irá converte-lo, deixando os inimigos mais fortes, e melhorando suas recompensas (dentre elas, a Ominous trial key)."
+		""
+		"{image:minecraft:block/trial_spawner_side_active_ominous width:50 height:50 align:center}"
+	]
+	quest.00703B9BD4BF15CC.title: "Elementos"
+	quest.019BE82B36E2B701.quest_desc: ["  É necessário utilizar a armadura para ativar a habilidade passiva desse item."]
+	quest.02DB04D68BC40D4C.quest_desc: [
+		"  Charged Certuz Quartz é um dos recursos mais utilizados pelo Applied. "
+		""
+		"  Para energizar um cristal, use o charger e garanta que este esteja recebendo energia."
+		"  "
+		""
+		"&eDica:&r &7caso ainda não tenha criado uma geração de energia com o &amekanism&7, você pode usar uma crank para energizar esse bloco.&r"
+	]
+	quest.02FB1D32015BC98C.quest_desc: [
+		"  Aperte &ectrl + T&r para abrir o menu de tiers do Apotheosis."
+		""
+		"  Nessa tela, você pode conferir o que precisa fazer para avançar de tier e os modificadores que cada um aplica a você, aos mobs e aos drops."
+	]
+	quest.02FB1D32015BC98C.quest_subtitle: "Difficulty Scaling"
+	quest.0310A687AE8E294A.title: "The Harbinger"
+	quest.037FF5E4F9DD60E0.title: "Atlantis"
+	quest.03B9440706BA20A9.quest_desc: [
+		"{image:kubejs:textures/questimgs/allthemodium/dungeon.png width:100 height:100 align:center}"
+		""
+		"  &eRecomendado: &rDiamante/Netherite (full enchant) ou melhor, para poder explorar."
+	]
+	quest.040D404AE2B15346.quest_desc: ["  Mate todos os bosses do Cataclysm."]
+	quest.040D404AE2B15346.quest_subtitle: "Bane of Bosses"
+	quest.040D404AE2B15346.title: "&dCataclysmfarer"
+	quest.041B4FC1D84E2DA9.quest_subtitle: "Rituais"
+	quest.041EA61758653870.title: "&2Uranium Hexafluoride"
+	quest.04239D4460737AE7.quest_subtitle: "Tier 3"
+	quest.047D8A596143FFD6.quest_desc: [
+		"  &eTask:&r Use uma &6Trial key&r em um &3Vault&r."
+		""
+		"{image:minecraft:block/vault_front_ejecting width:50 height:50 align:center}"
+	]
+	quest.047D8A596143FFD6.title: "Trial Key"
+	quest.04C6C9A2A3E1D6D3.quest_desc: ["  Elimine todos os inimigos do barco. Matar o Capitão irá dropar um item especial..."]
+	quest.04C6C9A2A3E1D6D3.title: "Barco Pillager"
+	quest.04DB734408502576.quest_subtitle: "Poder do Sol²"
+	quest.04DBDAB5341327A9.quest_desc: [
+		""
+		"{image:kubejs:textures/questimgs/allthemodium/piglin.png width:100 height:100 align:center}"
+	]
+	quest.04E752CFBA14A097.title: "Pyromancer"
+	quest.05501B957ACDF6F3.quest_desc: ["  Usar uma ferramenta com fortuna pode te ajudar..."]
+	quest.0579858468E92460.title: "Glass Cable"
+	quest.05EC5D096915507A.quest_desc: [
+		"  Contraptions são um conjunto customizavel de blocos que realizam movimento. "
+		""
+		"  São criadas ao ativar uma &6Âncora de Movimento&r (listadas nas dependências). &7Existem outras, porem essas são as mais utilizadas.&r "
+		"  "
+		"  Para que múltiplos blocos sejam movimentados como parte de uma contraption é  necessário conecta-los utilizando: &aSuper cola&r &7(99% das vezes)&r ou Chassis &eRadial&r ou &eLinear&r."
+	]
+	quest.05EC5D096915507A.title: "&dContraptions"
+	quest.05F4BE6F0F6CC1BC.quest_desc: ["  O mapa indica a localização dos bosses e outros pontos de interesse na Twilight Forest."]
+	quest.06A2BC2417952862.quest_desc: ["  Mesma função do bloco anterior, mas possibilita receitas diferentes."]
+	quest.06BB84487FD85BCF.title: "Level 4"
+	quest.06E723580CFECC75.title: "&bVibranium Armor"
+	quest.0735D7275C274778.quest_desc: ["  Utilizada para linkar dois blocos. Enquanto no &abind-mode&r, shift + botão direito em uma &bflor&r para selecionar ela, depois repita para um &bmana spreader&r, isso irá conecta-los"]
+	quest.0758B689778B6634.title: "&dRefined Obsidian Tools"
+	quest.077CC899A1CC4901.quest_desc: [
+		"  Shift + botão direito no beacon enquanto segura um &aterrasteel ingot&r irá ativar o ritual. "
+		""
+		"  É melhor estar bem preparado para essa luta. Lembre-se de que a dificuldade aumenta com o número de players próximos."
+	]
+	quest.077CC899A1CC4901.title: "&6Gaia Spirit"
+	quest.077DCFAB626215F9.title: "Encontre um &9Ocean Monument"
+	quest.083390FD60C822A8.title: "&dCataclysm"
+	quest.08C35E4EBE49520B.quest_desc: ["  Pode ser encontrado ao quebrar &edecorated pots&r enquanto explora as Trial Chambers."]
+	quest.08C35E4EBE49520B.title: "Creator (Music Box)"
+	quest.092388368A1F4B57.quest_subtitle: "Reforja atributos específicos em itens, ou os melhora"
+	quest.097CEF7F454CE160.title: "Heavy Water"
+	quest.099A5E4FEA570C01.quest_desc: ["  Necessário para invocar o boss."]
+	quest.0A5E1E96B387C09B.quest_desc: ["  Usa materiais de raridade e pó de gemas."]
+	quest.0A5E1E96B387C09B.quest_subtitle: "Combina gemas iguas para melhorar seu nível de raridade"
+	quest.0A72D70AC0DFDC75.title: "A Tumba"
+	quest.0A9FAFA1FA29F6E1.title: "Ender Golem"
+	quest.0AF3883D296AF41D.quest_desc: ["  Com a &bPicareta Gigante&f, retorne ao solo, cave abaixo da nuvem para encontrar o Cofre de Obsidian. Quebre-o usando a picareta para obter a &eLamp of Cinders&r do báu escondido."]
+	quest.0B2DEDC3636D24E3.title: "&32x Ore Processing"
+	quest.0B6F49DCF3517C6F.quest_desc: [
+		"  Obtidos ao jogar suas versões \"normais\" numa mana pool. "
+		""
+		"  &7Verifique as receitas no JEI.&r"
+	]
+	quest.0B6F49DCF3517C6F.title: "Mana items"
+	quest.0C18BB82C7A2A704.quest_desc: [
+		"  Obtida ao andar sobre um &bSculk Sensor&r com a &eDecaying Relic&r em mãos. "
+		""
+		"  Possui uma porcentagem boa de se transformar. Ainda assim, não necessariamente vai acontecer no primeiro sensor, continue tentando!"
+	]
+	quest.0C432849F1A75DFD.quest_subtitle: "Melhor armazenamento de itens"
+	quest.0C432849F1A75DFD.title: "Sopphisticated Storage"
+	quest.0C5DF3C490A5EFCA.quest_subtitle: "R.I.P buildcraft"
+	quest.0C5DF3C490A5EFCA.title: "&bQuarry"
+	quest.0CA4B88D4D4291FB.quest_desc: [
+		"  Gera source consumindo comidas dropadas por perto ou colocadas em pedestais conectados."
+		""
+		"  Quanto melhor a comida, mais source."
+	]
+	quest.0CA4B88D4D4291FB.quest_subtitle: "Energia dos alimentos"
+	quest.0CE67793C5932587.quest_desc: ["  Se você não encontrar o bioma do mod, use o &aMarket&r para comprar uma muda de &5Archwood&r."]
+	quest.0CE67793C5932587.quest_subtitle: "Madeira mágica, para um mod mágico"
+	quest.0CE67793C5932587.title: "Archwood"
+	quest.0D0AD9E3599C4617.title: "Iron Backpack"
+	quest.0D4792BC90139D6A.title: "&dCreate"
+	quest.0D636208F356DCFC.title: "&dUnobtainium Tools"
+	quest.0DEEEFBD84F7BFCE.quest_desc: ["  Elimine a Rainha de Gelo no Palácio da Aurora, localizado nos biomas de Glacier."]
+	quest.0DEEEFBD84F7BFCE.quest_subtitle: "&oLet it go"
+	quest.0DEEEFBD84F7BFCE.title: "Snow Queen"
+	quest.0E17CF36CD4075A1.quest_subtitle: "Filtrando encantamentos e maldições"
+	quest.0E638090B8064104.quest_subtitle: "+ Max Mana"
+	quest.0E6589EECABD9242.quest_desc: [
+		"  Necessário para invocar o boss. "
+		""
+		"  Encontrado ao usar a &eBrush&r nas areias/cascalhos suspeitos espalhados pela dungeon."
+	]
+	quest.0E88AE7FCDCF7554.quest_desc: [
+		"  A primeira estrutura que você irá criar será o &bReator de Fissão&r."
+		""
+		"  Mas, antes de cria-lo, é preciso fazer o seu combustível (&l&7fissile fuel&r). "
+		""
+		"  Criar esse combustível é um processo complicado, que requer várias etapas, mas as quests irão guia-lo em cada uma delas! "
+		""
+		"  Siga o passo a passo e tente não se perder!"
+	]
+	quest.0E88AE7FCDCF7554.title: "Começando"
+	quest.0E94ED9853DC41B1.quest_desc: ["  Usa Ether Gas para acelerar tremendamente a velocidade de crescimento de qualquer semente plantada sobre ela."]
+	quest.0E94ED9853DC41B1.quest_subtitle: "Mystical go brrrr"
+	quest.0EE2387A49ED03A8.quest_desc: [
+		"  Algumas receitas do mod precisar ser feitas nesse altar. Ele funciona como uma fornalha, basicamente. "
+		""
+		"  Verifique no JEI quais itens podem ser utilizados para abastece-lo."
+	]
+	quest.100E61611BC18530.quest_desc: [
+		"  Ao usar o &bStraw&r em um &6blaze burner&r, este aceitará combustíveis líquidos para ser ativado, ao invés de sólidos."
+		""
+		"  Alguns líquidos resultam em &3Super Heating&r do Blaze."
+	]
+	quest.100E61611BC18530.quest_subtitle: "Combustiveis líquidos"
+	quest.101DEBB610E6CD63.title: "Level 3"
+	quest.1048242F4DCAF403.quest_desc: ["  Encontrado no bioma de End Highlands."]
+	quest.1048242F4DCAF403.title: "&dUnobtainium Ingot"
+	quest.1096EF66B089A5D5.quest_desc: [
+		"   &lConstruindo o reator:&r"
+		""
+		"  A base, cobertura e os cantos devem ser feitos com a &bcasing&r, numa area de 5x5x5."
+		""
+		"  Dentro do reator, coloque as &efuel rods&r em X. 5 rods com 3 de altura. E uma &6control rod&r acima de cada."
+		""
+		"  Nas \"paredes\", você pode adicionar o &dcontroller&r, por onde irá ativar e desativar e monitorar o desempenho do reator, e as &9portas de acesso&r de combustivel e energia. "
+		""
+		"  Termine de fechar o reator com o vidro. "
+		""
+		"  Se tudo der certo, você deverá notar uma mudança na textura dos blocos, indicando a montagem correta da estrutura multibloco."
+	]
+	quest.110B2E421C1CF83D.quest_desc: ["  Pode ser instalados diretamente nos drawers ou através do &6Controller&r (tentará distribuir os upgrades para todos os inventários conectados)"]
+	quest.117A53116F9927B2.quest_desc: [
+		"  O &6Brazier&r permite que você faça &apactos&r em troca de um poder, com algum efeito negativo (se curar mais, porem ter menos vida maxima, por exemplo). "
+		""
+		"  Você pode ter 2 pactos ativos por vez. Cheque a enciclopedia arcana para ver os recursos necessários e a descrição de cada pacto."
+		""
+		"  Depois de fornecer os recursos, use &eEther&r para forjar o pacto ou &dParacausal Flame&r para desfaze-lo."
+	]
+	quest.117A53116F9927B2.quest_subtitle: "Soulbound Powers"
+	quest.11F97553E6565A01.title: "Anglerfish"
+	quest.12106BF81BE3BB46.quest_subtitle: "A melhor Paxel"
+	quest.12411EBC799A8FA5.quest_desc: ["{image:kubejs:textures/questimgs/allthemodium/susclay.png width:50 height:50 align:center}"]
+	quest.12411EBC799A8FA5.quest_subtitle: "Encontrado nas &bAncient Cities"
+	quest.124888CEED728BC2.title: "Postboxes"
+	quest.129253827662FD22.title: "Netherite Upgrade"
+	quest.12E5038F2F4D3972.quest_desc: [
+		"  Void. Apenas, Void."
+		""
+		"  Útil para criar farms."
+	]
+	quest.13006C28F6F3A028.title: "Precipice"
+	quest.13B2A8264AE0B7CF.title: "Cryomancer"
+	quest.13D56E0069353DD8.title: "Stack Upgrade"
+	quest.13F4A808EA80EC84.title: "Pattern Provider"
+	quest.13F835F99EF92BB2.quest_desc: ["  Obtida ao receber o &bataque sônico do Warden&r com a &eDecaying Relic&r em mãos."]
+	quest.1413450C665B7009.title: "&dUnobtainium Arcanist"
+	quest.144C0395F021DE4B.title: "&eUranium Oxide"
+	quest.14A7938AC343EFDC.quest_desc: [
+		"  Imobiliza o mob que está acima dela. Utilizada para prender o &8Wither&r na produção de &#A9E0FFEther Gas&r."
+		"  Apenas se certifique de que não faltará energia para essa máquina."
+	]
+	quest.14BF5706114A9B35.title: "Rich Soil"
+	quest.154F593093476786.title: "&eRadioactive Waste"
+	quest.15660B6D926C9037.quest_desc: [
+		"  Item extramente versátil, permite: "
+		"   1. Imbuir magias em armas"
+		"   2. Melhorar armaduras"
+		"   3. Melhorar o nível de um scroll"
+	]
+	quest.1585424531707494.quest_subtitle: "Tudo em um!"
+	quest.1585424531707494.title: "Paxels"
+	quest.160A8107EE429D3A.title: "Infinity Items"
+	quest.1687B31149122FBC.title: "Construction sticks"
+	quest.171CE5CB69B72ED5.quest_subtitle: "Energizando o Create"
+	quest.171CE5CB69B72ED5.title: "&6Create: Crafts and Additions"
+	quest.171D32BA3A42E621.title: "&6[Lich]"
+	quest.1724E22E817D4AAF.title: "Sulfur Dioxide"
+	quest.172E55102CBD4887.title: "Ancient Factory"
+	quest.176164F0EC50F6DD.title: "Armadura de Zanite"
+	quest.17796A3AD86DD669.title: "Cardboard Armor"
+	quest.17A2E4F4B3458197.title: "&bVibranium Arcanist"
+	quest.17BB069B601F759B.quest_desc: ["  Gera source absorverndo itens combustiveis. Podem ser dropados perto ou colocados em pedestais conectados."]
+	quest.17BB069B601F759B.quest_subtitle: "Energia da queima"
+	quest.1832BEFB187D12CF.title: "&7Hydrofloric Acid"
+	quest.1845196909429E9F.quest_desc: [
+		"  Reconhece o inventário em que está conectado como parte do seu sistema. "
+		""
+		"  Itens poderão ser importados e exportados de dentro desse inventário &7(pode mudar a prioridade de cada um)&r."
+	]
+	quest.1845196909429E9F.quest_subtitle: "Mais inventário para o sistema"
+	quest.186E48566C7692BE.quest_desc: ["  Necessário para invocar o boss, obtido através dos mobs guardando os andares inferiores da arena."]
+	quest.18F93DEE8EA4819B.title: "&bWarden"
+	quest.194774C8CCDA1046.title: "&d[Quantum]"
+	quest.194DF5DCE2EA4CD0.title: "Diamonds"
+	quest.19A55AC7DFAECC8B.quest_desc: [
+		"  Posicione a &dLaser Base&r acima do &8Wither&r, com um bloco de espaço entre eles. "
+		"  As &eLaser Drills&r ficam em volta da base, com um bloco de distância. "
+		" "
+		"  Você pode usar até 36 drills (12 por layer, 3 layers max) para extrair o máximo possível, mas, na grande maioria das vezes, esse nível de produção &onão será necessário&r."
+	]
+	quest.19A55AC7DFAECC8B.quest_subtitle: "Ordenhando o Wither?"
+	quest.19EA49580D9BA1FD.quest_subtitle: "Phantom drop"
+	quest.1A8189607A8C3459.quest_desc: ["  Utilizado para invocar Tyros"]
+	quest.1AF5C6CC12AA352E.title: "Sulfur Trioxide"
+	quest.1B6D535E2473A0D9.quest_subtitle: "Supercomputer Crafting"
+	quest.1B6D535E2473A0D9.title: "&dAssembler Matrix"
+	quest.1BD0E424C9FCBB33.quest_desc: [
+		"  Você pode obter &balmas&r:"
+		""
+		"  - Usando o &aSoul Extractor&r em uma Soul Sand "
+		""
+		"  _ Matar mobs com uma ferramenta encantada com &eSoul Looting&r terá uma chance de liberar sua alma, que você pode matar para coleta-la."
+	]
+	quest.1BD0E424C9FCBB33.title: "Souls"
+	quest.1C0FB67C4BDBE8E7.quest_desc: ["  Gemas podem ser aplicadas à armas &brúnicas&r ou &6Únicas&r, garantindo algum bonus."]
+	quest.1C44CB71ADF006CF.quest_desc: ["  Maneira de acessar a sua conta bancária."]
+	quest.1C44CB71ADF006CF.quest_subtitle: "Caixa Eletrônico"
+	quest.1C7830B8BE3ABB51.title: "Blue Banded Bee"
+	quest.1CA39A62073EFF99.quest_subtitle: "Minério base"
+	quest.1CACFA6A6CA0839E.title: "&cAdvanced Cables"
+	quest.1D9F8739CCDE9389.title: "&cHot Tourist Destinations"
+	quest.1DD8AAF1B85574DC.quest_desc: [
+		"  Coloque uma &5budding amethyst&r ao lado de uma &bShadowpulse&r Goo para converte-la."
+		""
+		"  O bloco convertido então deverá passar por um processo para começar a gerar &atime crystals&r."
+		""
+		"  Ele deve visitar as 3 dimensões (&2overworld&r, &cnether&r e &dend&r) para absorver energia dessas."
+		""
+		""
+		"  &lNÃO QUEBRE O BLOCO&r, porque ele &dnão irá dropar&r, mesmo com silk touch. Use as cardboxes do Mekanism para transporta-lo."
+	]
+	quest.1E13B7D024CAB40A.title: "Electromancer"
+	quest.1E6CEC7D3C5A70B3.quest_desc: [
+		"  Gera source através de poções dentro de jarros próximos."
+		""
+		"  Poções de níveis maiores e com mais efeitos geram mais source."
+	]
+	quest.1E6CEC7D3C5A70B3.quest_subtitle: "Energia das poções"
+	quest.1E8EC9DAE14AD222.title: "Leafcutter Bee"
+	quest.1EB766B3CBBACFE4.quest_desc: ["  Em termos simples, uma bateria de mana."]
+	quest.1EBA8B1F7D38CFE2.quest_desc: [
+		"  Cabos conectados em um &dcontroller&r transmitirão uma certa quantia de &bcanais&r &7(cabos simples - 8 e cabos densos - 32)&r. "
+		""
+		"  Canais &edeterminam a quantia de máquinas&r &7- ou \"aparelhos\" -&r &eque podem ser conectados&r em certo cabeamento. "
+		""
+		"  É recomendado, principalmente para iniciantes, o uso de &n&aSmart Cables&r, que mostram a quantia de canais disponiveis e quantos estão sendo usados."
+	]
+	quest.1F44361FA269C617.title: "&aTerrasteel armor"
+	quest.1FC32511D2D020AF.title: "Chocolate Mining Bee"
+	quest.1FF0925AD9FFFA9A.quest_desc: [
+		"  Elimine o Minoshroom, localizado no fim do labirinto subterrâneo na Twilight Swamp. "
+		""
+		"  Comer um Meef Stroganoff (drop) irá permitir acesso ao Fire Swamp."
+	]
+	quest.1FF0925AD9FFFA9A.title: "Minoshroom"
+	quest.2012A066D7F068A7.title: "Wilden Chimera"
+	quest.20628A7416216A80.quest_desc: [
+		"  Seja bem-vindo(a) a 10° edição do &dCapivara SMP&r!"
+		""
+		"  Para essa edição especial, decidimos criar um modpack com quests, na esperança de ajudar os jogadores com os mods que eles não conhecem &7- e também para quem gosta de ir atrás de conquistas e complecionismo. &r"
+		""
+		"  Desejamos à todos uma ótima jornada!"
+	]
+	quest.20628A7416216A80.quest_subtitle: "Bem vindo!"
+	quest.20628A7416216A80.title: "CSMP X"
+	quest.20FA3FB1A077A2B9.quest_desc: ["  É necessário utilizar a armadura para ativar a habilidade passiva desse item."]
+	quest.2119B716C3A8E1FC.quest_desc: [
+		"  Matar mobs com essa arma permite o drop de espiritos. Você vai precisar de bastante deles!"
+		""
+		"  O tipo de mob dita qual espírito ele dropa. "
+		""
+		"  Também é possivel obter alguns recursos especiais ao eliminar certos mobs."
+	]
+	quest.21567A28A1057BEB.quest_subtitle: "Post-production update"
+	quest.21567A28A1057BEB.title: "&dCreate 6.0"
+	quest.21C4629C92E43617.quest_desc: ["  Garante habilidades extras ao utilizar a armadura completa."]
+	quest.21C4629C92E43617.title: "Armadura Abissal"
+	quest.223A8D2748F569F7.title: "Iron Pickaxe"
+	quest.22596B2C4D8A0414.title: "&dExosuit"
+	quest.22B37B4AA734A129.quest_desc: [
+		"  Para conseguir multiplicar os minérios pelos valores indicados nas quests a seguir é necessário o uso de &d&osilk touch&r. "
+		""
+		"  Minérios brutos também podem ser processados em máquinas para aumentar seu lucro, mas o retorno é menor."
+	]
+	quest.22B37B4AA734A129.quest_subtitle: "Fortuna das Máquinas"
+	quest.22BA7FA256EBFB8C.quest_subtitle: "Criando receitas"
+	quest.22FD5EC833102076.quest_desc: [
+		"  Durante a sua jornada você irá encontrar &bartefatos&r e &drelíquias&r com habilidades únicas."
+		""
+		"  Conforme você os usa, as habilidades podem ser melhoradas! "
+		""
+		"  Com o item no seu inventário, segure SHIFT em cima dele para abrir o menu. Aqui você pode ver fontes de XP do item, melhorar sua qualidade e nível."
+	]
+	quest.22FD5EC833102076.quest_subtitle: "Recompensando a exploração"
+	quest.22FD5EC833102076.title: "Artifacts x Relics"
+	quest.233C0154FAD5454E.title: "&dAtomic Alloy"
+	quest.23BDF49BF6F20BBC.title: "Wizard"
+	quest.23D7FEB7258A94A0.quest_desc: ["  Garante habilidades extras ao utilizar a armadura completa."]
+	quest.23D7FEB7258A94A0.title: "Armadura de Escamas"
+	quest.241CA9F75BC14277.quest_desc: [
+		"   Usando a Lamp of Cinders, abra caminho pelas Thornlands e encontre o Castelo Final."
+		""
+		"   Infelizmente, o mod da Twilight acaba aqui, nessa estrutura. "
+		""
+		"  O castelo tem ótimos blocos de construção e portais que podem ser usados na sua base, fique à vontade para leva-los como lembrança."
+	]
+	quest.241CA9F75BC14277.title: "&dCastelo Final"
+	quest.2492B97CCB4AD0DD.quest_subtitle: "Skeletal mobs drop"
+	quest.24B408375858915C.title: "&dUnobtainium Mage"
+	quest.24E2AAFCEAFD7E94.quest_desc: ["  Atravesse um portal para chegar às Ilhas do Fim"]
+	quest.24E2AAFCEAFD7E94.title: "Além do Fim"
+	quest.250B7CD656F098ED.title: "&8Fissile Fuel"
+	quest.2595BCEC43936205.title: "&bVibranium Tools"
+	quest.259A1B3D4B97164D.quest_desc: [
+		"  Enquanto explora o &eEND&r, mantenha esse item no seu inventário junto de um &dRunic Tablet&r. "
+		""
+		"  Resultados podem levar algum tempo..."
+	]
+	quest.25D50704AF7C4842.quest_desc: [
+		"  Por fim, as dungeons de ouro são encontradas no interior de ilhas com um formato mais esférico e com carvalhos dourados crescendo em seu topo."
+		""
+		"{image:kubejs:textures/quests/goldungeon.png width:100 height:100 align:center}"
+		""
+		"  O boss, &l&dEspírito do Sol&r, estará imune a princípio. Para ativar a sua luta, fique interagindo com ele repetidamente, até ele se irritar."
+		" "
+		"  Para matar esse boss, você precisa &brefletir os ataques de gelo em sua direção&r, o que o deixará &nvulnerável&r a dano por um &ncurto período de tempo&r."
+	]
+	quest.25EAECB9BBD96586.quest_desc: [
+		"  Essencial para a progressão dentro do mod, a &bPure Daisy&r purifica os blocos adjacentes (até 8 por vez). "
+		""
+		"  O processo deve demorar, aproximadamente, um minutinho."
+	]
+	quest.25F4A71DDC35C6C3.quest_desc: [
+		"  As dungeons de prata se assemelham com um panteão (como aqueles templos romanos) e estão espalhadas pela dimensão, a mostra."
+		""
+		"{image:kubejs:textures/quests/silverdungeon.png width:75 height:75 align:center}"
+		""
+		"  Dentro, valquírias irão spawnar. Você precisa derrota-las até conseguir &b10 medalhas&r, para então poder desafiar a &l&dRainha&r delas, o boss da dungeon."
+	]
+	quest.2622CCAABF2EDAA5.quest_desc: [
+		"  Utilizado para criar runas (materiais de craft). Requer mana para funcionar!"
+		""
+		"  &dCriando runas:&r adicione os materiais, a mana necessária e por último adicione a livingrock. "
+		""
+		"  Clique com a Wand of the Forest para finalizar o craft."
+	]
+	quest.262AD0F907690072.quest_desc: ["  Melhore sua forja de tier (confira o JEI) e crie a &aEternal Stella&r, que tem o poder de deixar qualquer item &bindestrutível&r."]
+	quest.266A66D14D223635.quest_desc: [
+		"  Depois de limpar as sculks veins do portal no centro da Ancient City, use o Heart of the Deep para ativa-lo."
+		""
+		"  &7Recomendado:&f Warden Helmet (bloqueia o debuff de darkness do Warden)"
+	]
+	quest.26AB02C923C71885.title: "Sopphisticated Backpacks"
+	quest.26B74A1C9FE3F1AE.quest_desc: ["  &7Entrar na água com essa armadura irá transforma-la em obsidiana.&r"]
+	quest.26B74A1C9FE3F1AE.title: "Armadura da Fênix"
+	quest.2735F26C402022AE.title: "New Crops"
+	quest.27935DF1ABB5E04A.quest_desc: ["  Transmite &bcanais&r da sua &drede&r a distância, sem precisar usar cabos"]
+	quest.27935DF1ABB5E04A.title: "Wireless Channels"
+	quest.27A8C50D32F8CCE3.title: "Lithium"
+	quest.283AEDF840585243.quest_desc: [
+		"  Usado para invocar o &dFantasma do Labirinto&r. "
+		""
+		"  &7Recomendado:&r Poção de Fraqueza para cortar sua cura. "
+		"  É possível vencer a luta usar desse debuff, mas será necessário dar uma alta quantia de dano."
+	]
+	quest.28F275864C067F63.quest_desc: [
+		"  Magias realizadas &aatravés do tomo&r &lnão são consumidas&r, mas entram em tempo de recarga e consomem mana."
+		""
+		"  Utilizar um scroll irá consumi-lo no processo, mas não gasta mana."
+	]
+	quest.290621FEEB379D38.quest_desc: [
+		"  Coloca blocos aleatoriamente a partir dos disponiveis na sua hotbar. "
+		""
+		"  Ajuda bastante a texturizar construções!"
+	]
+	quest.290621FEEB379D38.quest_subtitle: "Texturas Facilitadas"
+	quest.2B09E109DF4D7A95.quest_desc: [
+		"  &6Create &ré um mod técnico que permite a criação de diversos mecanismos, capazes de automatizar a produção de recursos, transportar itens e líquidos, dar movimento a estruturas e muito mais!"
+		""
+		"  Esse mod explora muito da &dsua criatividade&r, mas é bem acolhedor a novos usuários. "
+		""
+		"  Se sentir que é preciso, existem diversos tutoriais disponíveis a seu respeito."
+		""
+		"{@pagebreak}"
+		"  Algumas recomendações de canais para aprender sobre o mod e/ou se inspirar:"
+		""
+		"    - &6Dan&r  &b(pt-br)&r"
+		"         Serie: cidade mecânica ou back on track"
+		""
+		"    - &6MrBeardStone&r &b(en-us)&r"
+		"         Serie: praticamente todas"
+		""
+		"    - &6Chosen Architect&r &b(en-us)&r"
+		"         Serie: Just Create SMP"
+		"         Tem vídeos bem didáticos, costuma explicar bem."
+	]
+	quest.2B09E109DF4D7A95.title: "Bem vindo ao Create"
+	quest.2B846D55920331B7.title: "&b4x Ore Processing"
+	quest.2BAD0E1E86EBDAE1.quest_subtitle: "Permite encantamentos como mending e soul speed aparecerem como opções na mesa"
+	quest.2C7EE4CA7B805618.quest_subtitle: "O mais simples gerador"
+	quest.2CA7E1697AB31857.title: "&dFree the End"
+	quest.2CB202D4572694DA.quest_desc: [
+		"{image:kubejs:textures/questimgs/ars/source.png width:192 height:108 align:center}"
+		""
+		" Gera source sempre que há um tick de crescimento próximo."
+		""
+		"  Esse setup usando Cactus, SNAD e algum tipo de ímã é bem barato e vai satisfazer as necessidades de source por um bom tempo."
+	]
+	quest.2CB202D4572694DA.quest_subtitle: "Energia das plantações"
+	quest.2CB7D929D8546EC9.title: "Sulfuric Acid"
+	quest.2CC76847DC6AD570.quest_desc: [
+		"  As quantias listadas na quest são o necessário para fazer um reator 3x3x5. "
+		"  "
+		"  O &cLogic Adapter&r, apesar de opcional, pode ser bem útil. "
+		"  Ele permite &bdesligar automaticamente&r o reator em algum &4sinal de problema&r (falta de líquido refrigerador, excesso de nuclear waste, temperatura elevada...)"
+		""
+		"&eDica:&r &7Você pode apertar \"U\" sobre esses blocos, e ir para a aba do JEI relacionada para ver a quantia de blocos que você vai utilizar para montar um reator maior.&r"
+	]
+	quest.2CC76847DC6AD570.quest_subtitle: "Going nuclear"
+	quest.2CC76847DC6AD570.title: "&bFission Reactor"
+	quest.2CD7714BBABF5069.quest_desc: [
+		"  É possível instalar melhorias nos seus baús, melhorando a funcionalidade deles. "
+		""
+		"  A quantia de upgrades que podem ser instalados depende do rank do baú."
+	]
+	quest.2CD7714BBABF5069.title: "Upgrades!"
+	quest.2D6EA7C300600BF2.quest_desc: ["  Elimine a Naga em seu labirinto, localizado na Twilight Forest (bioma)."]
+	quest.2D6EA7C300600BF2.title: "Naga"
+	quest.2DA2F8DE754796A3.quest_desc: [
+		""
+		"{image:kubejs:textures/questimgs/allthemodium/pyramid.png width:100 height:100 align:center}"
+	]
+	quest.2E10F6B59EBDB162.quest_desc: [
+		"  &eTask:&r Use uma &bOminous trial key&r em um &3Ominous Vault&r."
+		""
+		"{image:minecraft:block/vault_front_ejecting_ominous width:50 height:50 align:center}"
+	]
+	quest.2E10F6B59EBDB162.title: "Ominous Trial Key"
+	quest.2E7AC5756F8DBD35.quest_desc: [
+		"  Obtiada ao estar sob o efeito &bDarkness&r (o do Sculk) com a &eDecaying Relic&r em mãos. "
+		"  "
+		"  Baixa chance de se transformar!! Você provavelmente vai passar algum tempo nas Ancient Cities..."
+		""
+		"  Cuidado com os Wardens enquanto tenta conseguir essa arma."
+	]
+	quest.2E9916E858F8426D.quest_subtitle: "Level &d100"
+	quest.2F094D07EA48130D.title: "Netherite Battlemage"
+	quest.3040B4CB09328AD0.title: "&dNetherite Armor"
+	quest.30F0F8EF3849CA75.quest_subtitle: "Auto crafting"
+	quest.311A59C8FDF48CFD.quest_desc: ["  Gemas podem ser aplicadas à armas &brúnicas&r ou &6Únicas&r, garantindo algum bonus."]
+	quest.31ABEA764D842717.quest_desc: ["  Manter esse item no seu inventário irá transforma-lo em uma de três armas (mesma chance de obter cada uma)."]
+	quest.325477ECB82D689A.quest_desc: [
+		"  Elimine os Phantom Knights nas masmorras dos goblins, enterradas sob a Dark Forest. "
+		""
+		"  Para entrar nessa dungeon será necessário sacrificar um troféu de qualquer outro boss na entrada, o colocando sobre o pedestal."
+	]
+	quest.325477ECB82D689A.title: "Knight Fantom"
+	quest.32781E75EBAA6871.quest_desc: ["  Pode ser encontrados nos baús das Ancient Cities."]
+	quest.32B29AE453438CB4.title: "Shadow-Walker"
+	quest.32DA3678A8761475.quest_desc: [
+		"  Monte a estrutura e depois use o &6Mundabitur Dust&r na &bSmithing Table&r &7(vai no centro)&r para ativa-la."
+		""
+		"{image:kubejs:textures/questimgs/ars/forge.png width:100 height:100 align:center}"
+		""
+		"  &lUSANDO A FORJA:&r"
+		""
+		"  Você pode abastecer a forja com 4 atributos: &axp&r, &csangue&r, &baureal&r e &dalmas&r. Cada receita irá precisar de alguma quantia diferente desses elementos, e algumas irão precisar de uma relíquia para realizar o craft."
+		""
+		"  Depois de alimentar a forja com os recursos e ingredientes necessários, use um &eGavel&r nela para começar o craft."
+	]
+	quest.32DA3678A8761475.title: "Hephaestus Forge"
+	quest.331E3C39AF94B09A.quest_desc: [
+		"  Confira no Lexica Botania a posição* correta dos Pylons e certifique-se de que o Beacon está ativo."
+		""
+		"  &7*Existe uma opção de criar uma \"estrutura fantasma\" usando o livro, indicando no mundo onde colocar os blocos;"
+	]
+	quest.331E3C39AF94B09A.title: "Gaia Ritual"
+	quest.336320E697D07FC7.title: "Plagued"
+	quest.3390B0BA3CB8A584.title: "&6Allthemodium Armor"
+	quest.33A3C9FEE2AEB0DE.title: "Passive Mob Seeds"
+	quest.33B0681E24F9F5CC.title: "Scarecrow Armor"
+	quest.33E27940787293A4.quest_subtitle: "Enderman drop"
+	quest.33E28C07192D89E1.quest_desc: ["  É necessário utilizar a armadura para ativar a habilidade passiva desse item."]
+	quest.33E3428C9F347FB9.title: "Arsenal de Sculk"
+	quest.33EE595A3DA0F2A8.title: "Netherite Monstrosity"
+	quest.34630D7F8391EBFE.quest_desc: [""]
+	quest.34630D7F8391EBFE.title: "Evoluindo a Terra Blade"
+	quest.347FF2621987E8C1.title: "&6Allthemodium Mage"
+	quest.34830735796590AD.title: "&bDiamond Tools"
+	quest.34B12630F4EE7A45.title: "&dArmas Únicas"
+	quest.34EEE5BFDD5942FD.title: "&dMeka-tool"
+	quest.3519C4EC471C2F09.quest_desc: ["  Elimine a Hydra em seu covil, localizado no Fire Swamp."]
+	quest.3519C4EC471C2F09.title: "Hydra"
+	quest.3521873B6EB19B96.title: "Maledictus"
+	quest.358563526D1350A5.quest_desc: ["  Usando as mesmas peças, porem com a variante reforçada, você pode fazer um reator de 32x32 de base e até 48 de altura."]
+	quest.358563526D1350A5.title: "Reator Reforçado"
+	quest.359E909E92B9AE79.title: "&cEcho of Tyros"
+	quest.35E39E167C32FF09.title: "&dBotania "
+	quest.362E59E480B654C5.title: "Armadura das Valquirias"
+	quest.36690D89317E0FE5.quest_desc: ["  Mana portátil. Provê mana para itens no seu inventário."]
+	quest.36690D89317E0FE5.quest_subtitle: "Pra viagem"
+	quest.36BD8351A71FC6E4.title: "Deuterium"
+	quest.36F7F4B6F85564DA.quest_desc: ["  Esse modpack adiciona algumas novas dimensões ao jogo, como o &3Otherside&r e a &5Twilight Forest&r. Explore todas elas!"]
+	quest.36F7F4B6F85564DA.quest_subtitle: "Novas aventuras"
+	quest.36F9D995C011E7F3.title: "Abyssal Warlock"
+	quest.37065AA48CE02F00.title: "Funnels"
+	quest.3740101A71D481BB.quest_desc: [
+		"  Para construir o portal, você precisará de pelo menos 10 blocos de glowstone e um blade d'água para ativa-lo."
+		""
+		"  O portal do &bAether&r é construído da mesma forma que o do &cNether&r, só trocando os blocos e o item de ativação. Da mesma maneira, ele pode ser construído em uma escala maior."
+	]
+	quest.3740101A71D481BB.quest_subtitle: "Skypiea"
+	quest.379442C5AB63BD7A.quest_desc: ["  Gera mana para os itens no seu inventário."]
+	quest.37DB1C1803105FF2.quest_subtitle: "Umas das melhores mob farms"
+	quest.37DB1C1803105FF2.title: "Drygmy"
+	quest.37F103891B43182F.title: "&dSimply Swords"
+	quest.37FBE423E1DF07A1.quest_desc: ["  Após receber um pagamento (configurável) emite um pulso de redstone."]
+	quest.37FBE423E1DF07A1.quest_subtitle: "Catracas?"
+	quest.3836316A3427DEAC.title: "&dThe Dead King"
+	quest.3848B24C8DF3D428.quest_desc: [
+		"  Nas Highlands, encontre uma Nuvem gigante. Abaixo dela, dentro de cavernas, aparecerão Trolls."
+		""
+		"  Mate eles para conseguir os feijões mágicos e use eles no solo brilhante para ir às nuvens, onde habitam gigantes."
+	]
+	quest.3848B24C8DF3D428.title: "Trolls"
+	quest.387E4631901AEF54.title: "Subnautica"
+	quest.38856B647EA2E752.quest_subtitle: "Mais dicas de encantamento"
+	quest.389806620DD3AA1D.quest_subtitle: "Processamento Quântico"
+	quest.389806620DD3AA1D.title: "&dQuantum Computer"
+	quest.38E79292E61136DA.title: "Level 2"
+	quest.39A68C7E5A6AF1E7.quest_desc: [
+		"  Para utilizar os rituais, coloque o &eBrazier&r no chão e clique nele com um &dtablet.&r"
+		""
+		"  O brazier agora está ativo e esperando \"confirmação\". Nesse estado, você pode dropar itens no fogo para aprimorar o ritual."
+		""
+		"  Para terminar, clique com a mão vazia no brazier."
+	]
+	quest.39A7ED778B6661B2.quest_desc: ["  Obtido ao deixar uma bigorna cair em cima de uma gema, quebrando-a no processo. "]
+	quest.3A170CE3426CFE27.title: "Estações"
+	quest.3A381C9462E9B068.quest_desc: ["  Consome experiência para duplicar o mob contido na imprisonment tool."]
+	quest.3AA927303980B6DD.title: "&6Trens"
+	quest.3AAC8E2D67FFAC84.title: "Gavel"
+	quest.3B1E08C408C042FC.quest_desc: ["  Apesar de não ser necessária, proporciona um craft &bmais eficiente&r para ligas."]
+	quest.3B1E08C408C042FC.quest_subtitle: "Alloyer"
+	quest.3B4DBB6F3DD745D1.title: "Mushroom Colonies"
+	quest.3B749C7A49B9F40E.title: "Level 1"
+	quest.3B8B25DD25B29D61.quest_desc: [
+		"  Segue o mesmo padrão de uso da Imbuement Chamber."
+		""
+		"  O Enchanting Core deve ficar abaixo do Apparatus, e os pedestais em volta deste."
+	]
+	quest.3B9E8BD6788B64D5.quest_desc: [
+		"  Depois de linkado a um player, pode ser adicionado ao &6Vendor&r para garantir acesso ao mesmo."
+		""
+		"  Útil se você quer montar uma loja em conjunto com alguém."
+	]
+	quest.3B9E8BD6788B64D5.quest_subtitle: "Parceiro de negócios"
+	quest.3B9E8BD6788B64D5.title: "ID Cards"
+	quest.3BB215E23FD53AA8.title: "Smart Cables"
+	quest.3C7AD0A01D20BC97.quest_desc: [
+		"  Cave um buraco 2x2x1 no chão, preencha ele de água e cerque-o com flores. "
+		""
+		"  Feito isso, jogue um diamante na água e o portal será aberto."
+	]
+	quest.3C7AD0A01D20BC97.title: "Twilight Forest"
+	quest.3C885FD5A25F2915.quest_desc: [
+		"  É possível instalar melhorias nas suas mochilas, melhorando a funcionalidade delas. "
+		""
+		"  A quantia de upgrades que podem ser instalados depende do rank da mochila."
+	]
+	quest.3C885FD5A25F2915.title: "Backpack Upgrades!"
+	quest.3CB2189CACC7F741.quest_desc: ["  FTB Chunks permite proteger uma área, para que apenas você e seus aliados possam quebrar ou interagir com os blocos dela."]
+	quest.3CB2189CACC7F741.quest_subtitle: "Protegendo seu terreno"
+	quest.3CC471E48755CDDB.title: "Creator"
+	quest.3CD4A58D3D27D821.title: "Silence Trim"
+	quest.3CE4784464FD0036.quest_desc: ["  Transforma a energia do Create (SU) em forge energy (FE)."]
+	quest.3D1118757AF6EF67.quest_desc: ["  Permite o voo, ao custo de hidrogênio"]
+	quest.3D19439E9593BB99.quest_subtitle: "Um combustivel melhor"
+	quest.3E411E9ADB8525BD.title: "Priest"
+	quest.3E47D2D733DBE887.title: "&dQuantum Armor"
+	quest.3E881F227F140080.title: "&cInfused Alloy"
+	quest.3EB12C9D713E92E0.quest_desc: ["  Procure pelo labirinto em um bioma de &bDeep Frozen Ocean&r."]
+	quest.3EB12C9D713E92E0.title: "O Labirinto"
+	quest.3EEFC30FD72A3E99.title: "&6Dragonslayer"
+	quest.3FB7ECC244E49A16.quest_desc: [
+		"  Dropando &#1A1B36Dark Matter&r e &5Corrupti Dust&r juntos, um &dBuraco Negro&r será criado."
+		""
+		"  Alimentar esse buraco negro com experiência (&ebottle o' enchanting&r) irá resultar na criação de &aXpetrified Orbs&r."
+	]
+	quest.3FFB021632DB10D9.title: "&a3x Ore Processing"
+	quest.407B58D76A2209B9.title: "Ignis"
+	quest.40C3902CA8F9DE58.title: "Cursium Mage"
+	quest.40EF964E7067AF37.title: "&cChaos Guardian"
+	quest.411AEE141866B9B1.quest_desc: [
+		"  Parabéns! Você eliminou todos os bosses da Twilight Forest."
+		""
+		"  Porém, se quiser continuar, ainda existem mais 2 lugares pra visitar... para fins de complecionismo, nada mais."
+	]
+	quest.411AEE141866B9B1.title: "Fim?"
+	quest.423375808C1EA8E6.quest_desc: [
+		"  Usado para criar as sementes do mod, coloque a semente base &7(normalmente&r &#A5FAFFprosperity&7)&r&r no altar e os recursos e essencias nos altares. "
+		""
+		"  Para ativar o craft, dê um sinal de &credstone&r. "
+		"  Você pode deixar uma tocha ou bloco de redstone embaixo do altar para não precisar enviar um sinal toda vez."
+	]
+	quest.42796E143CE9C50B.title: "&6Allthemodium Arcanist"
+	quest.42DCBF646E985A9C.quest_desc: [
+		"  A mesa de encantamento agora tem atributos especiais:"
+		"   - &aEterna&r: Dita o nível de encantamento"
+		"   - &dArcana&r: A raridade dos encantamentos"
+		"   - &cQuanta&r: O poder, para mais ou para menos, dos encantamentos"
+		""
+		"  Também é possivel ter mais &6Dicas de Encantamento&r, para saber quais encantamentos virão, além do primeiro, no seu item."
+	]
+	quest.42DCBF646E985A9C.title: "Apotheosis Enchanting"
+	quest.43A93DB2FDC41E44.quest_subtitle: "Undead mobs drop"
+	quest.43E4D689198864D3.quest_desc: [
+		"  Ferramentas e armaduras do mod podem receber&d upgrades&r. "
+		""
+		"  São instalados ao combinar a ferramenta e o upgrade em uma &6smithing table&r."
+		""
+		"  Novos tiers aceitam upgrades dos tiers inferiores, além de alguns novos."
+	]
+	quest.446361F2E661BD72.title: "&dVanilla"
+	quest.44975BD7C5DED533.title: "&b[Mek]"
+	quest.44C35BE09FEB7779.quest_desc: [
+		"  Elimine o Lich em seu castelo, localizado ainda na floresta. "
+		""
+		"  É necessário ter tido contato com as escamas da naga para entrar no castelo."
+	]
+	quest.44C35BE09FEB7779.title: "Lich"
+	quest.44C5FEDBC57B5B7D.title: "Iron Node"
+	quest.450F3E89BB0E3DEF.title: "A cidade no Fim"
+	quest.45C301B60835147D.quest_subtitle: "Baterias"
+	quest.4607487BD9F0DA29.title: "Armadura de Sculk"
+	quest.464CFAB59B27F288.quest_desc: [
+		"  Ferramentas de Blazegold tem a propriedade única Lava Repair."
+		""
+		"  Essa habilidade permite reparar as ferramentas &6&ldeste material&r ao joga-las na lava."
+	]
+	quest.46820BE674A05651.title: "&8[Decay]"
+	quest.476124708A38D3EC.quest_desc: [
+		"  O upgrade de fábrica está disponível para a maioria das máquinas do Mekanism, mas não para todas."
+		""
+		"  Com ele instalado, as máquinas conseguirão realizar mais processos simultaneamente."
+	]
+	quest.485BEFA1433F0FB0.title: "&6Allthemodium Tools"
+	quest.48D37B0F5A449790.quest_subtitle: "Spawn proofing"
+	quest.48D87C813E774138.quest_desc: [
+		"  Clicando com o &dSpell Book&r na mesa, você poderá escolher um glifo para pesquisar. Forneça os itens necessários para aprende-lo."
+		""
+		"  Quanto mais você aprender, maior será sua mana máxima, regeneração de mana e poder."
+	]
+	quest.48D87C813E774138.quest_subtitle: "Pesquisando glifos"
+	quest.4918FBAD39E7F7DC.quest_desc: ["  Algumas das quests irão te recompensar com moedas! Você pode usar essas para realizar trocas com outros jogadores, usando o mod &6Create: Numismatics&r!"]
+	quest.4918FBAD39E7F7DC.quest_subtitle: "&o$$$"
+	quest.4918FBAD39E7F7DC.title: "Numismatics!"
+	quest.49272DAE91F7ECAB.quest_subtitle: "Steam power"
+	quest.49272DAE91F7ECAB.title: "&dIndustrial Turbine"
+	quest.4938043CE5F88502.title: "Ashy Mining Bee"
+	quest.494F6ABC939BE4CB.quest_desc: [
+		"  Mata todos os mobs em seu alcance, passivos e hostis, gerando &aexperiência&r e seus &bloots&r. "
+		"  A opção ideal para uma mob farm automática."
+	]
+	quest.494F6ABC939BE4CB.quest_subtitle: "Mata mobs, gera loot e xp"
+	quest.4994DB00FC6796C5.title: "D-T Fuel"
+	quest.49AC022B01D4AB0C.quest_desc: ["  Consiga todos os discos de música do Aether."]
+	quest.49AC022B01D4AB0C.title: "♪♪♪♪♪"
+	quest.49E656C4744E7A8C.title: "Ancient Remnant"
+	quest.49F38FD900945C10.quest_subtitle: "Transportando blocos"
+	quest.4AD5DB1266A50A31.quest_desc: ["  *valores para uma torre com 5 de altura"]
+	quest.4AD5DB1266A50A31.title: "Evaporation Plant"
+	quest.4B1548C95207CF7D.quest_desc: [
+		"  Dá acesso à outras dimensões. "
+		""
+		"  A destinação dependende de qual dimensão você colocar o portal:"
+		""
+		"  &aOverworld&r ->  Mining Dimension"
+		"    &cNether&r   ->  The Other"
+		"     &eEnd&r      ->  The Beyond"
+	]
+	quest.4B58C3DE94F58403.quest_subtitle: "Reforja itens de qualquer raridade"
+	quest.4B9D28CA74CECD2B.title: "&bManasteel armor"
+	quest.4BC6E23ECF5F52D1.quest_desc: [
+		"  Esse altar é utilizado para criar Terrasteel, recurso muito importante na progressão do mod. &7Você pode conferir como criar o altar utilizando o Lexica Botania.&r"
+		""
+		"  Requer uma &oGRANDE&r quantia de mana para funcionar."
+	]
+	quest.4C57D2B795A6A1CF.quest_desc: ["  Bloqueia dano de queda e garante step-assist, ao custo de energia"]
+	quest.4C8212A68407F464.quest_desc: [
+		"{image:kubejs:textures/questimgs/ae2/basicsetup.png width:100 height:100 align:center}"
+		""
+		"  Cada lado do controller proporciona 32 canais, além de transmitir energia através destes."
+		""
+		"  É possível criar uma &destrutura multibloco&r, ao inves de usar apenas 1. Você pode cria um controller de até &b7x7x7&r &7(apenas as bordas, sem preencher os lados)&r, liberando mais canais para o uso."
+		""
+		"  Mais sobre canais na quest a seguir"
+		"          --->"
+	]
+	quest.4C8212A68407F464.quest_subtitle: "O Coração do Sistema"
+	quest.4CB7DFB64C12F81C.quest_desc: ["  Um mundo super-plano, repleto de minérios, onde nada spawna."]
+	quest.4D088554600B940B.quest_desc: ["  Utilizada para imbuir magias (scrolls) em um tomo."]
+	quest.4D2AF297F444F0C8.title: "Diamond Upgrade"
+	quest.4DED32DF700BFC32.quest_desc: ["  Gera &omais&r mana para os itens no seu inventário."]
+	quest.4DF82D2E89DC65A7.quest_desc: [
+		"  Com o Powah é possível energizar os itens do seu inventário, a partir de qualquer lugar. Também há como enviar energia à longas distâncias, sem o uso de cabos"
+		""
+		"  Para isso são necessários:"
+		""
+		"    &aEnder Cell&r: armazena a ernegia da sua rede wireless"
+		""
+		"    &bPlayer Transmiter&r: envia a energia da rede para você"
+		""
+		"    &dBinding Cards&r: \"linka\" você à rede"
+		""
+		"    &6Ender Gates&r: envia energia da rede para o bloco em que está conectado"
+	]
+	quest.4DFCDDF80E38B768.quest_desc: ["  Pegue um ovo de Moa de um ninho e incube ele, para ter a sua própria!"]
+	quest.4E2A21E5B86D98CC.quest_subtitle: "Warpstone wannabe"
+	quest.4ED9E4E4AF7FFC5F.quest_subtitle: "Processamento"
+	quest.4ED9E4E4AF7FFC5F.title: "Crafting CPUs"
+	quest.4EDC3CB1A141C104.title: "Cidadela Arruinada"
+	quest.4F03F8C18B3816FE.quest_subtitle: "Vanilla Backpacks"
+	quest.4F03F8C18B3816FE.title: "Shulker Box"
+	quest.4F363B735541C89A.quest_subtitle: "Leite de Wither"
+	quest.4FB4D02D350951E5.quest_desc: ["  Utilizados para melhorar determinado atributo em armaduras, tomos e staffs."]
+	quest.4FB4D02D350951E5.title: "Upgrade Orb"
+	quest.5009C7C1ABBCCB3D.quest_desc: ["  Proteje dos efeitos da radiação"]
+	quest.5009C7C1ABBCCB3D.title: "Hazmat Suit"
+	quest.5056348BD59FFCCF.title: "Ignis Mage"
+	quest.50679D9A1824003A.title: "&dFantasma das Profundezas"
+	quest.506F7A0B9801A358.title: "A Arena"
+	quest.511705B8BF48969C.title: "&dLevel 5"
+	quest.5149AF243DBD062E.quest_subtitle: "Produção Intermediaria"
+	quest.522B0E8BB2EED4FF.title: "Cultist"
+	quest.5258EAE9C6841B2C.title: "Neon Cuckoo Bee"
+	quest.535A27F2B375B07F.quest_desc: [
+		"  Esse portal é utilizado para a obtenção de recursos, ao jogar itens através dele."
+		""
+		"  Configura no &aLexica Botania&r qual a configuração do portal."
+		"  "
+		"  Após montar o portal corretamente e carregar as mana pools, acione-o ao clicar com a Wand of the Forest no seu núcleo."
+	]
+	quest.535A27F2B375B07F.title: "Elven Gateway"
+	quest.53BB1DDC6ADB3D30.quest_desc: [
+		"  Gera energia com a morte de mobs em sua proximidade. Quanto melhor sua mob farm, maior a geração."
+		""
+		"  Recomendado usar em conjunto com os spawners do Apotheosis."
+	]
+	quest.53BB1DDC6ADB3D30.quest_subtitle: "Energia da vida"
+	quest.53E41FF5EA10DCE3.quest_desc: ["Você pode melhorar do tier anterior ou da versão base até o tier desejado. "]
+	quest.53E41FF5EA10DCE3.title: "Gold Upgrade"
+	quest.5439DA9412B54545.quest_subtitle: "Energia Passiva"
+	quest.5455D2B5429D84D5.quest_desc: ["  Necessário para ativar o boss."]
+	quest.5503D740A598A291.quest_desc: [
+		"  Útil para fazer compras. Clicar com o cartão em um vendor irá remover dinheiro da sua conta diretamente &7(se você tiver, claro)&r. "
+		""
+		"  Não é mais necessário andar com moedas nos bolsos!"
+	]
+	quest.5503D740A598A291.quest_subtitle: "No débito"
+	quest.5503D740A598A291.title: "Cards"
+	quest.559C292891BADA9C.title: "&dUltimate Cables"
+	quest.55BC6ABBB9B9657E.title: "Machine Cores"
+	quest.5646E62FBF9C42F9.title: "Scylla"
+	quest.564D4458EC10703F.title: "&dNetherite Tools"
+	quest.571CB33BCE644B82.title: "&cThe Nether"
+	quest.581DAAA2D1A99BFC.quest_desc: ["  Elimine o Warden para obter seu coração e carapaça."]
+	quest.581DAAA2D1A99BFC.title: "&bWarden"
+	quest.58F9121D70C1CBB2.quest_desc: ["  Clique com o &3empty blaze burner&r em um &6blaze&r ou em um &6blaze spawner&r para captura-lo."]
+	quest.58F9121D70C1CBB2.title: "Blaze Burner"
+	quest.595A4EFB61B30765.quest_desc: [
+		"  O &aExtended AE&r é um addon do &dApplied&r que adiciona versões extendidas das máquinas &7(claro né)&r. "
+		""
+		"  Essas versões possuem &bmais slots&r e algumas conseguem até realizar &bmúltiplos processos simultaneamente&r."
+		""
+		"&eTask:&r crie uma &aentro seed&r, e use-a num &5fluix block&r, para converte-lo em um &abudding entroized flux&r &7(funciona como um budding de ametista)&r."
+	]
+	quest.595A4EFB61B30765.title: "Intro: &aExtended AE"
+	quest.59BE4B7990055AC4.quest_subtitle: "Transporte"
+	quest.5A058224FB70E847.quest_desc: [
+		"  &bJust Dire Things&r adiciona uma maneira única de craftar seus recursos."
+		""
+		"  Crie uma &dgoo&r e coloque-a no mundo. Em suas faces irão aparecer itens, os quais podem ser usados para &bativa-la&r &7(botão direito com o mesmo)&r."
+		""
+		"  Após ser ativada, a goo irá converter &6blocos de minérios&r colocados em contato com ela. "
+		""
+		"  Cada goo aceita novos blocos, mas todas podem craftar o mesmo que os tiers inferiores."
+	]
+	quest.5A94458D433EDB40.title: "Wandering Magician "
+	quest.5AD8D237790FFAD8.title: "Tritium"
+	quest.5AE95BA473BD38E3.quest_subtitle: "+ CdR"
+	quest.5B1D99DDCD7444CA.quest_desc: ["  Atua da mesma forma que o tablet, porém pode ser equipado no slot de trinkets (Curio)."]
+	quest.5BEDC19C6A8DB3DC.quest_desc: [
+		"  Você irá encontrar uma variedade de novas flores enquanto explora, que podem ser usadas em crafts de itens mágicos."
+		""
+		"  Alternativamente, usar um &aFloral Fertilizer&r irá criar algumas dessas flores nas proximidades."
+	]
+	quest.5BEDC19C6A8DB3DC.title: "Mystical Flowers"
+	quest.5C423F1E1F98523F.title: "&bVibranium Mage"
+	quest.5C8C4E234EADBF32.title: "Archevoker"
+	quest.5CBAAFF74CD07F05.quest_desc: [
+		"  O mod conta com dois bosses. "
+		"  "
+		"  Um deles é encontrado nas catacumbas e fica no &aoverworld&r."
+		"  O outro está na cidadela, localizada no &cnether&r."
+	]
+	quest.5CD8829ED9AB6701.title: "&dElementium armor"
+	quest.5D3F344DF4CB9C47.quest_desc: ["  É necessário utilizar a armadura para ativar a habilidade passiva desse item."]
+	quest.5DC3C94B5A6B3177.quest_desc: [
+		"  Para abastecer a forja com Aureal: "
+		""
+		"  - A criação de &bArcane Crystal Obelisks&r provê aureal passivamente, sendo a maneira mais comum. "
+		""
+		"  Com a base de arcane polished darkstone, crie um pilar com 2 arcane crystal block e depois usa um &6Mundabitur Dust&r para ativar. Devem estar sobre uma gilded chiseled polished darkstone."
+		""
+		"  Criar 4 desses cristais é o recomendado."
+		" "
+		"  - &3Aureal Bottles&r podem ser craftadas para abastecer a forja."
+	]
+	quest.5DC3C94B5A6B3177.title: "Aureal"
+	quest.5DDFB99C56C6C2D7.quest_subtitle: "Baterias modulares"
+	quest.5DDFB99C56C6C2D7.title: "&dInduction Matrix"
+	quest.5DE97DFB57AEC775.quest_subtitle: "Reforja itens, porém se limita a raros no máximo"
+	quest.5DF3D26B792372CD.quest_desc: [
+		"  Cuidados ao quebrar &lcabos&r ou &lbarris&r que contenham: "
+		"    &7Fissile Fuel&r, &3Plutonium&r, &aPolonium&r ou &eNuclear Waste&r."
+		""
+		"  Deixar que esses gases sejam expostos ao ar irá torna-lo &eradioativo&r."
+		"  A radiação aplica dano constante, e &ndemora a dissipar&r."
+		""
+		"  Fique atento para não quebrar nada indevido nos seus setups nucleares!"
+	]
+	quest.5E63A6A5FFE5CA88.quest_desc: ["{image:kubejs:textures/questimgs/allthemodium/library.png width:50 height:50 align:center}"]
+	quest.5E63A6A5FFE5CA88.quest_subtitle: "Encontrado na &dDungeon&r do The Other"
+	quest.5EE62D4DFA629C6A.quest_desc: ["  Encontrado nas camadas mais altas do Nether."]
+	quest.5EE62D4DFA629C6A.title: "&bVibranium Ingot"
+	quest.5F14489F1355F898.quest_desc: [
+		"  Você pode coletar &csangue&r para a forja de duas maneiras:"
+		""
+		"  - Craftando o &3Test Tube&r e deixando ele na offhand enquanto mata monstros para abastece-lo."
+		""
+		"  - Matar monstros perto do centro da forja."
+	]
+	quest.5F14489F1355F898.title: "Blood"
+	quest.5F3867925044B1AA.quest_desc: [
+		"  Existem cinco formas de gerar Source. "
+		""
+		"  Para o &learly&r e &lmid-game&r do mod é recomendado o &aAgronomic&r Sourcelink. "
+		""
+		"  Para &llate-game&r o &cVitalic&r Sourcelink pode se tornar mais forte."
+	]
+	quest.5F3867925044B1AA.quest_subtitle: "Gerando a \"energia\" do mod"
+	quest.5F97405AB928D1FF.quest_desc: [
+		"  O mod adiciona novas animações para suas armas, além de uma variedade de novas para você craftar. "
+		""
+		"  Encontre a que melhor se encaixa com seu estilo."
+	]
+	quest.5F97405AB928D1FF.quest_subtitle: "Um novo modo de combate"
+	quest.5F97405AB928D1FF.title: "Better Combat"
+	quest.5F9953CEE320631A.quest_desc: [
+		"  O ME Drive armazena discos, de qualquer tipo, em seu inventário. "
+		""
+		"  Discos, por sua vez, armazenam itens, líquidos, gases e até energia, dependendo do seu tipo."
+		""
+		"  Para introduzir esses recursos nos discos, você pode usar um terminal (no caso de itens) ou um importer (para os outros tipos)."
+	]
+	quest.5F9953CEE320631A.quest_subtitle: "Discos? O que houve com pendrive?"
+	quest.5FB50497479F798B.title: "&dHeavy Core"
+	quest.6059C2B7917CAD7C.title: "&aBasic Cables"
+	quest.607404EC39E5988D.quest_desc: [
+		"  Utilizada para criar a Flores Funcionais."
+		""
+		"  Coloque água (botão direito com um balde ou dropar ele sobre o apotecário), adicione (drop) as pétalas corretas e por último uma semente, para criar uma nova flor."
+	]
+	quest.60C38905940EE43B.quest_subtitle: "Energia"
+	quest.60DFE5EF8F2C6B4D.quest_desc: ["  Armazena uma quantia maior de mana."]
+	quest.61099B2707F29922.title: "&d[Dragonslayer]"
+	quest.6138D4D8E1254A1A.quest_subtitle: "+ Mana regen"
+	quest.615C1BDFC3099E9E.title: "The Leviathan"
+	quest.617BA98E1534693F.title: "Spools"
+	quest.617EA702B197CF51.title: "Backpack"
+	quest.626D57790537FC38.quest_subtitle: "Poder do Sol"
+	quest.62800BE7702393FC.title: "&bEspíritos"
+	quest.628E0884BE5CBB52.quest_desc: ["{image:kubejs:textures/questimgs/allthemodium/sussoul.png width:50 height:50 align:center}"]
+	quest.628E0884BE5CBB52.quest_subtitle: "Encontrado em &6Bastions"
+	quest.631A18735F071D34.quest_subtitle: "Tier 2"
+	quest.63837FA30D656475.quest_desc: ["  Espalhados pela Twilight estão alguns montes. Dentro deles há uma grande quantidade de minérios e monstros. São bem recompensadores..."]
+	quest.63837FA30D656475.title: "Hollow Hills"
+	quest.63D5C23C114BB835.quest_subtitle: "Uranium Reactor Waste"
+	quest.63DE324FA29D599F.quest_desc: ["  Visite todos os biomes do Otherside"]
+	quest.63DE324FA29D599F.title: "&dDeep Tourist Destinations"
+	quest.63F24EB95657331A.quest_subtitle: "Breeze drop"
+	quest.655752251E92AA71.title: "Wither Skeletons"
+	quest.65919F789056CA29.title: "&dMekasuit"
+	quest.65F41658FD4BF020.quest_subtitle: "AINDA MAIS dicas"
+	quest.668C4932F9A25C08.quest_subtitle: "Minério Base"
+	quest.66B047AF95E61F2A.title: "Ferramentas de Gravitite"
+	quest.66C2600419F0A40A.quest_desc: [
+		"  Obtidas ao quebrar um cubo misterioso, dentro de um meteorito do Applied."
+		""
+		"  Eles devem ser bem fáceis de encontrar &7(ainda mais com minimapa)&r, mas, caso esteja com dificuldade, você pode criar uma bússola para te guiar até eles."
+	]
+	quest.66C2600419F0A40A.title: "Inscriber Presses"
+	quest.66D59896E0440C8F.quest_desc: [
+		"  Seja bem vindo(a) à décima segunda edição do &bCapivara SMP&r!"
+		""
+		"  Desejamos uma boa jornada para você, e esperamos que aproveite bem essa temporada."
+		""
+		""
+		"  Att,  "
+		"   CSMP Team"
+	]
+	quest.66D59896E0440C8F.title: "Bem vindo!"
+	quest.6783B40C7FEC2B3D.title: "Lasers"
+	quest.67B9D605E17C935F.quest_desc: [
+		"{image:kubejs:textures/questimgs/allthemodium/allthemodium.png width:50 height:50 align:center}"
+		""
+		"  Encontrado nos biomas de deep dark. "
+		""
+		"  Visitar uma Ancient City pode ajudar a encontra-lo."
+	]
+	quest.67B9D605E17C935F.title: "&6Allthemodium Ingot"
+	quest.67D29427096F9E23.quest_desc: ["  Elimine o Alpha Yeti em seu covil, localizado no centro dos biomas de Snowy Forest."]
+	quest.67D29427096F9E23.title: "Alpha Yeti"
+	quest.67DDE6A2B91B3ED4.quest_desc: [
+		"  O addon Mekanism: Generators adiciona algumas novas estruturas multibloco ao jogo: "
+		""
+		"    - Reator de Fissão"
+		"    - Turbina Industrial"
+		"    - Reator de Fusão"
+		"    - Supercritical Phase Shifter (SPS)"
+		""
+		""
+		"  São as funções de cada uma   --->"
+		""
+		"{@pagebreak}"
+		"  &l&bReator de Fissão:&r "
+		""
+		"  - Superaquece materiais, responsáveis por energizar a &9Turbina Industrial&r;"
+		""
+		"  - Gerar &ematerial radioativo&r, utilizado na criação de itens \"end-game\" do Mekanism."
+		""
+		"{@pagebreak}"
+		"  &l&bTurbina Industrial:&r "
+		""
+		"  - Gera grandes quantidades de &aenergia (FE)&r"
+		""
+		"{@pagebreak}"
+		"  &l&bReator de Fusão:&r "
+		""
+		"  - Gera muita &aenergia (FE)&r"
+		""
+		"  - Pode, ao custo de uma geração menor, gerar vapor para abastecer a &9Turbina Industrial&r. &nQuando em conjunto, geram ainda mais do que conseguiriam individualmente.&r"
+		""
+		"{@pagebreak}"
+		"  &l&bSupercritical Phase Shifter (SPS):&r "
+		""
+		"  - Gera &dantimatéria&r ao custo extremamente elevado de &aenergia&r e uma quantia moderada de &3polonium&r, "
+		""
+		"  A &dantimatéria&r é responsável pelo craft de itens \"end-game\" e é capaz de transmutar alguns itens &7(eg.: carvão para diamante)&r."
+	]
+	quest.67DDE6A2B91B3ED4.title: "&dReatores"
+	quest.68807B70BA015104.title: "Basic Sophisticated Storage"
+	quest.68DFA8A077679E68.quest_desc: [
+		"{image:powah:textures/gui/book/images/energizing.png width:160 height:90 align:center}"
+		""
+		"  O &bPowah&r adiciona uma nova maneira de realizar crafts com a &6Energizing Orb&r."
+		""
+		"  Você deve adicionar os itens à orb e prover a &aenergia necessária&r para realizar o craft. Para energiza-lo é necessário utilizar as &dEnergizing Rods&r."
+		"  Use multiplas rods para acelerar o craft. "
+		""
+		"  Não é possível realizar múltiplas receitas por vez!"
+		"  Se você adicionar mais itens do que é necessário para a receita, &oa Orb não irá funcionar&r!"
+	]
+	quest.68DFA8A077679E68.quest_subtitle: "Welcome to Powah!"
+	quest.690C3BF0EEA0E175.title: "Fusion Crafting"
+	quest.6984710AE54D837D.quest_desc: [
+		"  Separa líquidos em em seus componentes. Exemplo:"
+		"  Ao colocar &9água&r (H2O), recebe &7hidrogenio&r e &boxigênio&r, na proporção de 2 pra 1"
+	]
+	quest.6984710AE54D837D.quest_subtitle: "Química? "
+	quest.69A1FA03270503A4.quest_desc: ["  As armaduras do Ars podem receber até 3 bonificações, limitadas pelo seu tier, fazendo o uso dessa mesa."]
+	quest.69A1FA03270503A4.quest_subtitle: "Melhorando a armadura"
+	quest.69BD38D6684304CF.title: "&dSupercritical Phase Shifter &6(SPS)"
+	quest.69E5133C7DB15422.title: "Edelwood"
+	quest.69F0D4A62B7C9E62.quest_subtitle: "Level &c30"
+	quest.6ACE792E62085557.quest_desc: [
+		"  A Scroll Forge, em conjunto com uma tinta, permite criar magias. "
+		""
+		"  Magias de nível mais alto requerem tintas raras, assim como um tomo de melhor qualidade para abriga-las."
+	]
+	quest.6B857AD83DDE9573.title: "Pecados"
+	quest.6BC86A5397199491.quest_desc: [
+		"  Existem diversas maneiras de gerar energia com o Mekanism."
+		""
+		"  Algumas passivas (solar e eólica) outras ativas (gas burning, biofuel), requerendo um fornecimento constante de matéria prima para funcionar."
+	]
+	quest.6BC86A5397199491.title: "Gerando &aEnergia &2(FE)"
+	quest.6BCEE9796E923020.quest_desc: [
+		"  Use as quests para se guiar pelos mods. "
+		""
+		"  Caso hajam dúvidas sobre alguma mecânica, pode perguntar no nosso discord!"
+	]
+	quest.6BCEE9796E923020.quest_subtitle: "Guia do Modpack"
+	quest.6BD8D3B9E86AC764.quest_desc: ["  &7*Permafrost shards são encontrados em Icebreaker Shipwrecks."]
+	quest.6C7A422EDED22E13.quest_subtitle: "Level &a60"
+	quest.6CCD0A5AF0033AB1.quest_desc: ["  Ritual nível 2: Use um &dgaia spirit ingot&r ao invés de um terrasteel ingot."]
+	quest.6CCD0A5AF0033AB1.title: "&cGaia Guardian"
+	quest.6CD8C1DB31FB06E4.title: "&bDiamond Armor"
+	quest.6CDCBC41A25547CD.title: "Acropolis"
+	quest.6D39C301119B6B34.quest_desc: ["  Ao junta-lo com um scroll em uma arcane anvil, garante, enquanto equipado, +1 nível para a magia escolhida."]
+	quest.6D9355015A33C3C8.title: "Armadura de Gravitite"
+	quest.6D9ABCC60F20A9D8.title: "Geradores"
+	quest.6DA97AF7770CC105.quest_desc: ["  Exporte itens do seu sistema para dentro do inventário conectado."]
+	quest.6E16304A29E685AB.title: "Draconic battery"
+	quest.6E5DF6286490B9C5.quest_desc: ["  Coloque uma sela em um porco alado e voe com ele."]
+	quest.6E7BB36F0E49043E.quest_desc: ["  Mata todos os mobs em seu alcance, passivos e hostis, para gerar &dpink slime&r e &#B97C5Aliquid meat&r."]
+	quest.6E7BB36F0E49043E.quest_subtitle: "Mata mobs, mas não gera loot"
+	quest.6E97DA246B06F657.title: "Encontre uma &bAncient City"
+	quest.6F2DDD44FDB676DA.title: "&dUnobtainium Armor"
+	quest.6F5581B88A98B3A9.title: "&dHero of the Village"
+	quest.6FA38BA9B79837EF.quest_desc: [
+		"  Ao abrir o seu inventário, no canto superior esquerdo há uma opção chamada &bFTB Chunks: Claim Manager&r. "
+		""
+		"  Clicando nesse botão, você terá acesso ao mapa da sua região, onde você pode selecionar os chunks que deseja marcar como seus!"
+		""
+		"  Chunks \"pegos\" por jogadores são, por padrão, imunes a grieffing de outros jogadores (pode ser alterado nas suas configurações). Até mesmo interações com blocos podem ser bloqueadas!"
+	]
+	quest.6FA38BA9B79837EF.quest_subtitle: "Segurança em primeiro lugar"
+	quest.6FD944D58A024ECC.quest_desc: [
+		"  A entrada para as dungeons de bronze podem ser encontradas nas laterais de ilhas normais. "
+		""
+		"{image:kubejs:textures/quests/bronzedungeon.png width:75 height:75 align:center}"
+		""
+		"  O boss da dungeon, &l&dSlider&r, é completamente &bimune ao dano de espadas&r, devendo ser eliminado utilizando uma &bpicareta&r."
+	]
+	quest.6FFAF5C7B8C5A936.quest_desc: ["  Importa itens do inventário conectado para dentro do seu sistema."]
+	quest.70459D0EEB664516.quest_desc: [
+		"  A &6Endoflame&r gera mana ao dropar itens combustiveis (madeira, carvão, blaze rods...) sobre ela."
+		""
+		"  A &bHydroangeas&r gera mana ao absorver fontes de água próximas a ela (3x3 e na mesma altitude). Apesar de gerar mais mana, ela decai ao longo do tempo, precisando ser plantada novamente."
+	]
+	quest.70459D0EEB664516.title: "Gerando Mana"
+	quest.7067AC37D4B68791.title: "Oxygen"
+	quest.706DB11B8335CEC3.quest_subtitle: "Level &b80"
+	quest.70EE30765B9BD09B.title: "Ferramentas de Zanite"
+	quest.7134A3ACB336285A.quest_desc: [
+		"  Adicione o item que deseja vender ou comprar, o preço e aguarde! "
+		""
+		"  Lembre de manter suas lojas estocadas!! Sem produto, sem dinheiro."
+		""
+		"  Se houver um cartão no vendor, irá depositar os lucros direto para sua conta, ao invés de manter no seu inventário"
+	]
+	quest.7134A3ACB336285A.quest_subtitle: "Lojas!"
+	quest.716CB69C734ACDCF.quest_subtitle: "&oit all lead to this..."
+	quest.716CB69C734ACDCF.title: "&d&lCapivara Coin"
+	quest.71A40C7ACD026A58.quest_desc: [
+		"  Apotheosis adiciona 4 mecânicas importantes:"
+		"   - &dSpawners&r"
+		"   - &aEnchanting&r"
+		"   - &bEquipamentos&r"
+		"   - &eWorld Tiers&r"
+	]
+	quest.71A40C7ACD026A58.title: "Apotheosis"
+	quest.71D2C88B03ACD57E.quest_desc: [
+		"  Cabos são responsáveis pelo transporte de:"
+		""
+		"    - Energia"
+		"    - Fluidos"
+		"    - Gases"
+		"    - Itens"
+		"    - Calor"
+		""
+		""
+		"  Os cabos de &aenergia&r, &blíquidos&r e &dgases&r possuem, além da taxa de transferência, um armazenamento interno. Por isso, é recomendado fazer cabeamentos maiores quando transportando um desses itens."
+		""
+		"  Use o &bconfigurator&r &7(shift + rmb)&r para alterar o cabo entre extrair ou inserir."
+	]
+	quest.71D2C88B03ACD57E.quest_subtitle: "Transportando recursos"
+	quest.71D2C88B03ACD57E.title: "Cabos"
+	quest.72331E84C0ADD2F1.quest_desc: [
+		"  Permite o transporte de &blíquidos&r, &6itens&r, &egases&r e &aenergia&r."
+		""
+		"  Necessita estar em um chunk carregado!"
+	]
+	quest.72331E84C0ADD2F1.quest_subtitle: "Teleportando &arecursos"
+	quest.7261F3963BE3FD1D.title: "A forja no Nether"
+	quest.727C923ADB90CDE2.title: "&dAdvanced Machine Frame"
+	quest.729C6C0DAD1D98C9.quest_desc: ["  Elimine o Ur-Ghast, encontrado em sua torre no centro da Dark Forest."]
+	quest.729C6C0DAD1D98C9.title: "Ur-Ghast"
+	quest.72A798ABF74938B1.quest_subtitle: "Item Network"
+	quest.72BB8BD2B9405B23.quest_desc: ["  Ao colocar esse bloco sob um &bmana pool&r, permite a transmutação de novos itens."]
+	quest.72D2B3A7AE4D8457.quest_subtitle: "Livro Guia"
+	quest.730938C270E358C1.quest_desc: ["  É necessário utilizar a armadura para ativar a habilidade passiva desse item."]
+	quest.7328551BB1FA83DD.title: "Iron Upgrade"
+	quest.733099EB0AADD966.quest_desc: ["  Extrai latex de &aLogs&r na sua frente. Apesar de não necessitarem de energia, ela acelera o processo."]
+	quest.73A05DB718CE3AA7.title: "Vapor"
+	quest.73AE3A886B8F9EEB.quest_desc: [
+		"  Apenas insira os itens para começar o craft."
+		""
+		"  Usar &dSource&r as vezes não será necessário, porém acelera consideravelmente a velocidade de craft."
+		""
+		"  Alguns crafts podem precisar de mais itens, além do catalizador central. Use pedestais ao redor para fornecer esses."
+	]
+	quest.73AE3A886B8F9EEB.quest_subtitle: "Ars crafting table"
+	quest.74267F7262152CDF.quest_subtitle: "Removendo o RNG da quanta"
+	quest.7441F4705C5B63CB.quest_desc: [
+		"  Mekanism é um dos maiores mods tecnológicos do Minecraft. "
+		""
+		"  Ele conta com diversas máquinas e itens, que axiliam o processo de automação, exploração, armazenamento e transporte de recursos."
+		""
+		"  &eTask:&r Craft o &bMetallurgic Infuser&r, a primeira máquina do mod"
+		""
+		" &o&7Dica: para energizar a sua primeira máquina sem usar um gerador, você pode usar redstone"
+	]
+	quest.7441F4705C5B63CB.title: "Mekanism!"
+	quest.764EF8615C0647B0.quest_desc: ["  Uma vez nas nas nuvens, elimine os gigantes que moram lá para conseguir a Picareta Gigante."]
+	quest.7677F725278CA815.title: "Yellow Cake Uranium"
+	quest.76EC6BEF045BC211.quest_desc: ["  Encontre a Quest Ram e dê a ela o que está faltando..."]
+	quest.76EC6BEF045BC211.quest_subtitle: "&oTaste the rainbow"
+	quest.770C42901CCF0F3A.title: "Hostile Mob Seeds"
+	quest.770D16A1CA9F1F69.quest_desc: [
+		"  Clibano é uma &3forja multibloco&r (3x3x3) usada para criar uma &5liga&r especial. Também funciona como uma blast furnace."
+		""
+		"  Monte a estrutura e depois use o &6Mundabitur Dust&r no &bClibano Core&r para ativa-lo"
+		""
+		"Layer 1 e 3:"
+		"{image:kubejs:textures/questimgs/ars/clibano1.png width:100 height:100}"
+		""
+		"Layer 2:"
+		"{image:kubejs:textures/questimgs/ars/clibano2.png width:100 height:100}"
+	]
+	quest.770D16A1CA9F1F69.title: "Clibano"
+	quest.772C03258561A59B.title: "&4Fusion Reactor"
+	quest.7759B41EB9DE2A5D.title: "&bElite Cables"
+	quest.778DA87097E264FD.quest_desc: [
+		"  Cria magias apartir dos glifos desbloqueados. Use C &7(por padrão)&r para abrir o livro com ele na mão. "
+		"  "
+		"  Magias devem começar com um &btipo&r (projétil, toque..) e então um &aefeito&r (break, damage..)"
+		""
+		"  O &dTier do Livro&r determina quais glifos podem ser usados."
+		""
+		""
+		"&eDica:&r Enquanto está com o livro no seu inventário, você pode usar CTRL esquerdo &7(tecla padrão)&r com o mouse sobre um item do mod para abrir sua documentação e ter um guia sobre."
+	]
+	quest.778DA87097E264FD.quest_subtitle: "Tier 1"
+	quest.7798F2D575234BA3.quest_desc: ["  Direciona a mana de ponto A para um ponto B. &7Ex.: das flores para uma mana pool."]
+	quest.78AA44D415FA70E7.quest_subtitle: "&oLojas!"
+	quest.78AA44D415FA70E7.title: "Table Cloth"
+	quest.78D16DD7DCC9DEBD.title: "&bEncontre a Cidadela"
+	quest.78DB84E404A7B3F2.title: "&6Piglich"
+	quest.79E8ECC3D9A0B579.title: "&bGuardian"
+	quest.7A5B7F48364584DE.title: "Villager Trading"
+	quest.7A6E230828F7BEDF.quest_desc: ["  &eTask:&r Invoque e elimine o &0Wither&r para conseguir uma Nether Star."]
+	quest.7A6E230828F7BEDF.title: "&dWither"
+	quest.7AB179A77BC78414.quest_desc: ["  Transforma &aforge energy&r (FE) em energia do Create (SU)."]
+	quest.7ACF5619EC063B3F.quest_desc: ["  Segurar W em um bloco adicionado pelo Create irá te mostrar como usa-lo."]
+	quest.7ACF5619EC063B3F.quest_subtitle: "Tutoriais rápidos"
+	quest.7ACF5619EC063B3F.title: "Ponder"
+	quest.7B0A09DD18DD4ED2.title: "&bReinforced Alloy"
+	quest.7B325394B0AEE757.quest_subtitle: "Respawne o &dEnder Dragon"
+	quest.7B325394B0AEE757.title: "The End... Again"
+	quest.7B7506A305E9FB10.title: "Runic Weapons"
+	quest.7C108481C8A188E9.quest_desc: [
+		"  Complicado? Talvez um pouco, mas vale a pena"
+		""
+		"{image:kubejs:textures/questimgs/mekanism/5xores.png width:160 height:90 align:center}"
+	]
+	quest.7C108481C8A188E9.title: "&d5x Ore Processing"
+	quest.7C490A3E40641E1C.title: "Stack Upgrade"
+	quest.7C82E73703F7CDE1.title: "&dTwilight Forest"
+	quest.7CA8071C22DDC9AE.title: "Drawers"
+	quest.7D05195F7A9F4CC3.quest_desc: [
+		"  Podem ser coletados usando silk touch."
+		""
+		"  Alguns itens modificam o funcionamento dos spawners. Verifique com o JEI quais são e o que fazem."
+	]
+	quest.7D05195F7A9F4CC3.quest_subtitle: "Obtenha um spawner "
+	quest.7D094BB33793450F.quest_desc: ["  Transforma 750mb de latex e 500mb de água em plástico."]
+	quest.7D0FBB95F090DC18.quest_desc: ["  A menos que você use esse item no ritual e desfaça o pacto, este não pode ser quebrado/removido, ele está conectado a você, até mesmo após a morte."]
+	quest.7D0FBB95F090DC18.quest_subtitle: "Quebrando pactos"
+	quest.7D15040D9F7EE360.quest_subtitle: "Gerador Avançado"
+	quest.7D177BD320054CD6.title: "Osmium tools"
+	quest.7D7A09A7D8084962.title: "Chutes"
+	quest.7DE401B2AE248DCF.quest_desc: [""]
+	quest.7DE401B2AE248DCF.quest_subtitle: "Industrial Foregoing crafting table"
+	quest.7E0C46E24A4FEBCB.title: "&dOver-overkill"
+	quest.7E339F42B5E7F374.quest_desc: ["  Dimensão repleta de mobs e com algumas dungeons extramamente perigosas."]
+	quest.7E6E2BD4D98DD3C6.title: "The Highlands"
+	reward.08ACDB866443C7E1.title: "Desbloqueia o título EXEMPLO"
+	reward.0ABFCCE9BE247D59.title: "&d[Dragonslayer]"
+	reward.14E8EBAED31A51A6.title: "1 quest xp"
+	reward.21FEB3F0A022A7E1.title: "&8[Decay]"
+	reward.39A92D8EE89525A6.title: "Equipar título EXEMPLO"
+	reward.482DC44C6D0DA071.title: "Desbloqueia o título EXEMPLO"
+	reward_table.08C8059BF12AB09B.title: "Arma Única"
+	reward_table.4BDC8B6BD32BD820.title: "xp"
+	task.00B164370E0ED858.title: "Equipar título"
+	task.0137C248A19DEEB9.title: "Any #simplyswords:runic_weapons"
+	task.0169C4821CD0F293.title: "Coletar Recompensa"
+	task.01E316C2305D904B.title: "Dense Cables"
+	task.01FAD782F7A4AFBD.title: "Spice of Life"
+	task.02331CC90CE86718.title: "Quando porcos voarem"
+	task.02BE263A9A2F54B3.title: "Encontre um Bastion"
+	task.034DB7E32DFBB182.title: "Encantamentos 101"
+	task.03B10B188721BFCD.title: "Encontre o Ancient Temple"
+	task.040EA544D87286E1.title: "Wireless Energy"
+	task.042690417F07D304.title: "Crafting Storage"
+	task.0503861DE40C98CB.title: "Encontre a Soul Forge"
+	task.054A05574235CADB.title: "Encontre o Labirinto de Gelo"
+	task.05B5D71E9B883ED2.title: "Quest Ram"
+	task.0621D113BE0565C4.title: "Radiação"
+	task.062E1D748ED0A46A.title: "Any Nest"
+	task.0720D6FA46AC0A73.title: "Complete 5 quests"
+	task.07F9181485579E03.title: "Invoque e elimine o Segundo Nível do Espírito de Gaia"
+	task.09070D962EFF91A5.title: "Armazenamento"
+	task.0A466744BA12C2B1.title: "Sail Block"
+	task.0C3FEE1C1257137B.title: "Encantamentos intermediarios"
+	task.0E0CC44DCD218D80.title: "Any #constructionstick:construction_sticks"
+	task.0E9F59406C07C1F8.title: "Encontre uma &6Trial Chamber"
+	task.0EF15C166C4AD88A.title: "Tunnels"
+	task.0F81530B6BFAADC0.title: "Any #forbidden_arcanus:blacksmith_gavel"
+	task.126B7E9AD2D0EE1C.title: "Iron Furnaces"
+	task.139456AA9E5E4C00.title: "O começo"
+	task.139458718B6C2AA8.title: "Numismatics"
+	task.13E80C808DE61F37.title: "Mate o &dEnder Dragon"
+	task.154DFEF7C8DF36D2.title: "Any #forbidden_arcanus:edelwood_logs"
+	task.159ABCE72C6172D7.title: "Visite a Echoing Forest"
+	task.1760E920A256DA75.title: "Fogo ou Água"
+	task.18F5BDDA6570058B.title: "Any #curios:brooch"
+	task.1C4D2C2EDD616B90.title: "Pattern Provider"
+	task.1D8FB491CA88BFE2.title: "Any #cookingforblockheads:sinks"
+	task.1F14C6C768E95120.title: "Stack Upgrade"
+	task.1FABA2B3E7903EF2.title: "Any #simplyswords:uniques"
+	task.201518451664F4BF.title: "Any #c:gems/fluorite"
+	task.204111706B33BC6A.title: "Piglin Village"
+	task.2070FF08DE026302.title: "Advanced Beehives"
+	task.212158D5196C6781.title: "Ground Nest"
+	task.21800B996BF25603.title: "Elimine o Alpha Yeti"
+	task.21FE6FFE3CB0638F.title: "Consiga uma Shulker Box"
+	task.2287FC0C136F7FEC.title: "Any #c:tools/paxel"
+	task.24EAAB858772569C.title: "Visite as Blooming Caverns"
+	task.250334B6D465544C.title: "&dSculk Enchanting"
+	task.26AE6C80C086E22D.title: "lvl 1"
+	task.26BB2A148FFF4BE9.title: "Equipe uma gema em um item"
+	task.275848FFA0967536.title: "Addons"
+	task.27F515AB03287892.title: "Tree Nest"
+	task.286F3241BE57AB08.title: "Obtenha qualquer raridade de Tinta"
+	task.28B3F76111E3DBCA.title: "Any #c:logs/archwood"
+	task.290B87FB2F78EBB7.title: "Any #create:postboxes"
+	task.290F725F32456FB7.title: "Staffs"
+	task.29DFF6B46FD6B548.title: "Elimine a &dCapitã Cornelia"
+	task.2C319BF2050DAE06.title: "Complete 75 quests"
+	task.2C6907FF8F1D4BE2.title: "Bronze Dungeon"
+	task.2C71188FED7B0D73.title: "Elimine a Hydra"
+	task.2C8E709362E51614.title: "Títulos"
+	task.2CF0E84BC96C6A80.title: "Backpack"
+	task.2CF7E99ECC52F736.title: "Ominious Key"
+	task.2E19EEA1CD85D073.title: "Encontre a Ruined Citadel"
+	task.2E9987B2737DD9A4.title: "Gold Dungeon"
+	task.2EC97EB96FB499BE.title: "Consiga um item com afixo"
+	task.2EFB131A4783E19A.title: "The Beyond"
+	task.2FFBBBDCA75E879A.title: "&bEncontre as Catacumbas"
+	task.3035EA63E4161C71.title: "Upgrades"
+	task.30411D90B4AD5AD7.title: "Adquira qualquer material de raridade"
+	task.315F95CDC9C7DF91.title: "Fábricas"
+	task.32152BF4112D1580.title: "Ocean Monument"
+	task.3280FCE679CF46D8.title: "Colete 5 artefatos"
+	task.328CAAB81F76B1A2.title: "Any #malum:spirits"
+	task.33A5BB86B279568E.title: "Wires"
+	task.351411666EC35455.title: "Complete 15 quests"
+	task.35474A029E067554.title: "Cobblestone Generators"
+	task.35784F68B9427B3D.title: "Estrela ou Trovão"
+	task.367011B79D13F892.title: "Visite todos os biomas do Nether"
+	task.36C958EB60E8B5BD.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
+	task.3717FB4FF82344A1.title: "Colete 25 artefatos"
+	task.3732C255D6A756F5.title: "Epic Fight"
+	task.374A400367626D4C.title: "Mob Spawner"
+	task.37BA3DA05755A12C.title: "Dimensões"
+	task.37D757FA6975A9E5.title: "Encontre uma Fortaleza"
+	task.37E724369D956BCC.title: "Funnels"
+	task.38387DE9683B60D0.title: "Aether"
+	task.38407F9E709C1A87.title: "Upgrades"
+	task.38DEDE95E01D9062.title: "Ancient Pyramid"
+	task.395F2F01CFE89EDC.title: "Ore Hammers"
+	task.39EB0FFAED824722.title: "The Other"
+	task.3B7DC7C6C073F94F.title: "Elimine o Minoshroom"
+	task.3C4A848B7DFC31F8.title: "Dungeon"
+	task.3D104A6311568D51.title: "Any #c:ores/allthemodium"
+	task.3D13666CB902020A.title: "Addons"
+	task.3D8A6920061C775D.title: "Elimine o Lich"
+	task.3DB49819FD23195C.title: "Any #malum:runes/stone"
+	task.3E2082609F150E34.title: "Elimine a Naga"
+	task.3F03B3416898A87C.title: "Small hollow hill"
+	task.416F3776F8DF0C75.title: "Encontre a Sunken City"
+	task.42FC73E7C87DB962.title: "Large hollow hill"
+	task.43695CC0930B1609.title: "Backpacks"
+	task.43E866D4ACF203A3.title: "Apotheosis"
+	task.44303E66FD2D852A.title: "Elimine os Phantom Knights"
+	task.44EC96C0062C685B.title: "Any #botania:runes"
+	task.463CD1EF9D538E40.title: "Altar"
+	task.46C7722757858565.title: "Encontre um barco encalhado"
+	task.4819D7D0E64E07CC.title: "Prisão Congelada"
+	task.49FA8EBD840E00DC.title: "Any #createaddition:spools"
+	task.4A26A5B0BEB3368C.title: "Upgrades"
+	task.4A8BC604B6099E08.title: "Colete 10 artefatos"
+	task.4D05FFF4D3672BA1.title: "Elimine o Ur-Ghast"
+	task.4D67E08DDBB6B3A6.title: "Visite as Highlands"
+	task.4E342E66D35A3BF7.title: "Visite as Deeplands"
+	task.4E9971DE39D36EBB.title: "Equipar título"
+	task.4EE2E07312726104.title: "Bem vindo!"
+	task.4F56EB723CA07C96.title: "Visite o End"
+	task.5086690E348C5045.title: "Encontre uma Ancient City"
+	task.515608FD4A69488B.title: "Medium hollow hill"
+	task.523BB7F4E9210787.title: "Mining Dimension"
+	task.532FA55FC8AAFFF9.title: "Passe"
+	task.5385573B3372FB1C.title: "Coletar recompensa"
+	task.53B8AA6DCDC32FF8.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
+	task.54056F221633E0F6.title: "Encontre a Ancient Factory"
+	task.54AFB1729FD15A79.title: "Pondering"
+	task.556C3D2BAE85D5BF.title: "Source"
+	task.569CC55B2269ADFF.title: "Fluorite"
+	task.59A56EF7C41917C1.title: "Expansion box"
+	task.59B6DDB7E454296C.title: "Silver Dungeon"
+	task.5A2A005028BD12F9.title: "Any #ae2:glass_cable"
+	task.5A7D58245382D9FA.title: "Mate um troll"
+	task.5B1A70F080528AD5.title: "Connectors"
+	task.5B27311E77A70CF8.title: "Encontre o Castelo Final"
+	task.5B871459BF220A8B.title: "&dColete 75 artefatos"
+	task.5B8CE9CDDDED85AB.title: "Visite o Nether"
+	task.5C307A8356B9D474.title: "Encontre a Pirâmide Amaldiçoada"
+	task.5C4ABA55B8F6BD1C.title: "Invoque e elimine o Espírito de Gaia"
+	task.5CF59D06E446970F.title: "Any #apotheosis:rarity_materials"
+	task.5DC35443BF1A2E62.title: "FTB Chunks"
+	task.5DFF692453E5354D.title: "Spell Books"
+	task.5E2D555F78CC1861.title: "Encontre uma End City"
+	task.5E7C7B76B7E21C64.title: "Chutes"
+	task.5E7DDFBF8D1FD303.title: "Qualquer Cartão"
+	task.5EBA486C9F3C0C2D.title: "Knifes"
+	task.5F6D89E1DE1AB5A1.title: "Any #malum:runes/wooden"
+	task.606E7E3B39B89183.title: "Quests"
+	task.6148D15AD4A6CB92.title: "FTB Chunks"
+	task.61FA44A5E4937DC8.title: "Any #functionalstorage:drawer"
+	task.63DDDBD16E8BE62B.title: "Visite o Otherside"
+	task.6422A1B9C77D242F.title: "Any #create:table_cloths"
+	task.645997664A6CF13F.title: "Mystical Flower"
+	task.65F7A52842E3ED38.title: "Any #productivebees:expansion_boxes"
+	task.66ADEEFE0C8C8714.title: "Bosses"
+	task.677D65A6FFCDF938.title: "Multiplicação de minérios"
+	task.68060B2E0462BA59.title: "Equipar título"
+	task.6856529D80605A19.title: "Nether Roof"
+	task.6967E3082A87BA45.title: "Entre na Twilight Forest"
+	task.6A0FAD0734F72BA1.title: "Qualquer Cartão de ID"
+	task.6A3DB54B8106995C.title: "Ore Processing"
+	task.6ABCEFA016B2769D.title: "Any #productivebees:advanced_beehives"
+	task.6B03C9BC6977F362.title: "Train Tracks"
+	task.6B055FC7979D7F74.title: "Consiga uma Moa"
+	task.6D3E5355A200271F.title: "Canais"
+	task.6D62256ACE78A1F3.title: "Stress Units"
+	task.6DA6DBAF99377F5C.title: "Cause 100+ de dano usando uma Maça"
+	task.6E8257EEFA9C470A.title: "Any #sophisticatedstorage:all_storage"
+	task.6F7E7E9C44426B98.title: "Equipar título"
+	task.70238021FD5FCC74.title: "Any #ae2:smart_cable"
+	task.70AC3A9AC2E9D9F0.title: "Complete 25 quests"
+	task.7146FADCAB2FA54B.title: "Visite as Overcast Columns"
+	task.72E2422090017000.title: "Elimine a Snow Queen"
+	task.72EA76AB60971959.title: "Complete 50 quests"
+	task.74038CBD59797026.title: "Encontre a Burning Arena"
+	task.7474086CD0B00346.title: "Infinity Items"
+	task.77028D6BAAD7411B.title: "Encontre uma Ancient City"
+	task.779532AFB4EC267D.title: "Mate 10 Anglerfish"
+	task.781ED2F461CDB69A.title: "Logística"
+	task.78706FA942A45F05.title: "Equipar título"
+	task.78B8DD94B21B2B2A.title: "Botania"
+	task.793A44CAC381FBBF.title: "Suspicious Clay"
+	task.7AAD18C4BC043F98.title: "&6Max Enchanting"
+	task.7C9A3ADBB80F3344.title: "Colete 50 artefatos"
+	task.7F13D0CC0A675B8B.title: "Consiga uma Gema"
+}

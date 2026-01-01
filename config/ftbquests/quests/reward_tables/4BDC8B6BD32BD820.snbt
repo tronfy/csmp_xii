@@ -1,0 +1,21 @@
+{
+	hide_tooltip: true
+	id: "4BDC8B6BD32BD820"
+	loot_size: 1
+	order_index: 1
+	rewards: [{
+		auto: "invisible"
+		command: "/scoreboard players add @s quests 1"
+		disable_reward_screen_blur: true
+		icon: {
+			components: {
+				"ftbquests:icon": "kubejs:textures/questimgs/exp.png"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "14E8EBAED31A51A6"
+		silent: true
+		team_reward: false
+		type: "command"
+	}]
+}

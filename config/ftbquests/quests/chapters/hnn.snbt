@@ -1,0 +1,109 @@
+{
+	autofocus_id: "148857C70F5CC264"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hnn"
+	group: "68D816761DB873F2"
+	icon: {
+		id: "hostilenetworks:sim_chamber"
+	}
+	id: "3C1B4E12BB2010CC"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["44C5855CE05360DB"]
+			icon: {
+				id: "hostilenetworks:sim_chamber"
+			}
+			id: "148857C70F5CC264"
+			tasks: [
+				{
+					id: "356BA69B608AD614"
+					item: { count: 1, id: "hostilenetworks:sim_chamber" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "4ED9A8822020360B"
+					item: { count: 1, id: "hostilenetworks:prediction_matrix" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["148857C70F5CC264"]
+			icon: {
+				id: "hostilenetworks:loot_fabricator"
+			}
+			id: "3AD5CAC9E94E183E"
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "0B450B941AB11A86"
+				item: { count: 1, id: "hostilenetworks:loot_fabricator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "hostilenetworks:deep_learner"
+			}
+			id: "44C5855CE05360DB"
+			tasks: [
+				{
+					id: "21D566665867FDE6"
+					item: { count: 1, id: "hostilenetworks:deep_learner" }
+					type: "item"
+				}
+				{
+					id: "1E84A68AE07F04BE"
+					item: { count: 1, id: "hostilenetworks:blank_data_model" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3AD5CAC9E94E183E"]
+			id: "0094D37795F35759"
+			shape: "diamond"
+			tasks: [{
+				id: "2095FF40E89C2216"
+				item: { count: 1, id: "hostilenetworks:overworld_prediction" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3AD5CAC9E94E183E"]
+			id: "024005EE9F824642"
+			shape: "diamond"
+			tasks: [{
+				id: "2DA40742F593A915"
+				item: { count: 1, id: "hostilenetworks:nether_prediction" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3AD5CAC9E94E183E"]
+			id: "7A177EEBC0A1902D"
+			shape: "diamond"
+			tasks: [{
+				id: "0060A2CF2B87CFA4"
+				item: { count: 1, id: "hostilenetworks:end_prediction" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+	]
+}

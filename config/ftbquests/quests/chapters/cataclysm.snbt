@@ -1,0 +1,631 @@
+{
+	autofocus_id: "040D404AE2B15346"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cataclysm"
+	group: "18F67605EDDF8FE9"
+	icon: {
+		id: "cataclysm:altar_of_fire"
+	}
+	id: "2551343C6BC745BF"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7261F3963BE3FD1D"]
+			icon: {
+				id: "cataclysm:infernal_forge"
+			}
+			id: "33EE595A3DA0F2A8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5EE59CCD1DA79BA7"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "3B2939D2A7E04586"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A6439338CF1D5A6"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					id: "cataclysm:monstrous_helm"
+				}
+				id: "2EFCA726761B9974"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependency_requirement: "one_started"
+			id: "7261F3963BE3FD1D"
+			tasks: [{
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+				id: "0503861DE40C98CB"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "7F0B6CF7463781C5"
+			tasks: [{
+				id: "1E04F801AEFBE02B"
+				item: { count: 1, id: "cataclysm:monstrous_eye" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			id: "7A8F32771EC89B5C"
+			tasks: [{
+				id: "0693B8DAB3E643CB"
+				item: { count: 1, id: "cataclysm:desert_eye" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			id: "0A72D70AC0DFDC75"
+			tasks: [{
+				advancement: "cataclysm:find_cursed_pyramid"
+				criterion: ""
+				id: "5C307A8356B9D474"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0A72D70AC0DFDC75"
+				"0E6589EECABD9242"
+			]
+			dependency_requirement: "one_completed"
+			id: "49E656C4744E7A8C"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A35E2D3FD8ABE3A"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "5F4A4B3289FC88CD"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6E6A0BB92DFBE325"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: {
+					id: "cataclysm:bone_reptile_helmet"
+				}
+				id: "47A6A80C8646A507"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			id: "0232C17946CB1B77"
+			tasks: [{
+				id: "5072FF354F9FB78D"
+				item: { count: 1, id: "cataclysm:abyss_eye" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			id: "037FF5E4F9DD60E0"
+			tasks: [{
+				advancement: "cataclysm:find_sunken_city"
+				criterion: ""
+				id: "416F3776F8DF0C75"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"037FF5E4F9DD60E0"
+				"099A5E4FEA570C01"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "cataclysm:abyssal_egg"
+			}
+			id: "615C1BDFC3099E9E"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7D8A464E5C776341"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "2398D9EC04C1A46D"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3F3CC6C2C3AAD0B3"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: {
+					id: "cataclysm:abyssal_egg"
+				}
+				id: "3F6D92F301615B2D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "172E55102CBD4887"
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "54056F221633E0F6"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"172E55102CBD4887"
+				"5455D2B5429D84D5"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "cataclysm:witherite_block"
+			}
+			id: "0310A687AE8E294A"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D5596033C495F46"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "7858C89AD4F3E995"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "45CFF6C1808CBEA3"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: {
+					id: "cataclysm:witherite_block"
+				}
+				id: "430C21A9109E84B7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "254A2490FDA3DF82"
+			tasks: [{
+				id: "508B76CFB316AA8B"
+				item: { count: 1, id: "cataclysm:mech_eye" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "2890992C2AA11201"
+			tasks: [{
+				id: "0C034E94F4A9FFDD"
+				item: { count: 1, id: "cataclysm:flame_eye" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "506F7A0B9801A358"
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "74038CBD59797026"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"506F7A0B9801A358"
+				"186E48566C7692BE"
+			]
+			dependency_requirement: "one_completed"
+			id: "407B58D76A2209B9"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61C7091D7E5855A7"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "4571961F2AE57979"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "51C6240950612DA5"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					id: "cataclysm:ignitium_helmet"
+				}
+				id: "7585249C8F21BE01"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "676324DBF97061B2"
+			tasks: [{
+				id: "03D0DDF1BAB6DA21"
+				item: { count: 1, id: "cataclysm:void_eye" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			id: "4EDC3CB1A141C104"
+			tasks: [{
+				advancement: "cataclysm:find_ruined_citadel"
+				criterion: ""
+				id: "2E19EEA1CD85D073"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4EDC3CB1A141C104"]
+			icon: {
+				id: "cataclysm:void_core"
+			}
+			id: "0A9FAFA1FA29F6E1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "64BBA4AC8E0C7D06"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "79CE66B643B2BE26"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2AD9D22C9C4D6671"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: {
+					id: "cataclysm:void_core"
+				}
+				id: "1AEF1037684179FF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "099A5E4FEA570C01"
+			tasks: [{
+				id: "5039AC37BA5F260A"
+				item: { count: 1, id: "cataclysm:abyssal_sacrifice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "0E6589EECABD9242"
+			tasks: [{
+				id: "58A258EF3CFD855F"
+				item: { count: 1, id: "cataclysm:necklace_of_the_desert" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			id: "5455D2B5429D84D5"
+			tasks: [{
+				disable_toast: true
+				id: "00BF747BFE79E473"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "186E48566C7692BE"
+			tasks: [{
+				id: "10E63D407E925722"
+				item: { count: 1, id: "cataclysm:burning_ashes" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["282F32E6D375746B"]
+			id: "3521873B6EB19B96"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "17D5C2A4188C3809"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "340AA08CCD19FACB"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "46BE271B62EB6463"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: {
+					id: "cataclysm:cursium_helmet"
+				}
+				id: "2E1EE3BD0D0E6880"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 5.25d
+		}
+		{
+			id: "282F32E6D375746B"
+			tasks: [{
+				id: "4819D7D0E64E07CC"
+				structure: "cataclysm:frosted_prison"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			id: "2ABAF595F1E060E9"
+			tasks: [{
+				id: "15D1886643AA12F5"
+				item: { count: 1, id: "cataclysm:cursed_eye" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6CDCBC41A25547CD"]
+			id: "5646E62FBF9C42F9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0FB5AF053A421B92"
+					table_id: 632761914969731227L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "6FF0472D7AE46DE4"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4D03D2F0AAC93C1B"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:scylla"
+				icon: {
+					id: "cataclysm:ceraunus"
+				}
+				id: "0F39343FB0ADAFEA"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "6CDCBC41A25547CD"
+			tasks: [{
+				advancement: "cataclysm:find_acropolis"
+				criterion: ""
+				id: "779A6D68C6C22C44"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "113B29F2DF7D8511"
+			tasks: [{
+				id: "35F3AE9BDE01CA28"
+				item: { count: 1, id: "cataclysm:storm_eye" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"49E656C4744E7A8C"
+				"0310A687AE8E294A"
+				"615C1BDFC3099E9E"
+				"0A9FAFA1FA29F6E1"
+				"407B58D76A2209B9"
+				"33EE595A3DA0F2A8"
+				"5646E62FBF9C42F9"
+				"3521873B6EB19B96"
+			]
+			id: "040D404AE2B15346"
+			rewards: [{
+				id: "37022731315B566D"
+				item: {
+					count: 1
+					id: "allthemodium:unobtainium_block"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				advancement: "cataclysm:kill_all_bosses"
+				criterion: ""
+				id: "1B5BFE241746B90C"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+	]
+}

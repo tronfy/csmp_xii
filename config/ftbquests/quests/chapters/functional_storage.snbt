@@ -1,0 +1,210 @@
+{
+	autofocus_id: "7CA8071C22DDC9AE"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "functional_storage"
+	group: "590DE1031F4E6663"
+	icon: {
+		id: "functionalstorage:storage_controller"
+	}
+	id: "70B68688C028D882"
+	images: [
+		{
+			height: 0.25d
+			image: "createdeco:block/palettes/decals/decal_warning"
+			rotation: 0.0d
+			width: 0.25d
+			x: -1.35d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "functionalstorage:block/controller_front"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "functionalstorage:block/oak_front_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.65d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "functionalstorage:block/oak_front_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -0.35d
+		}
+		{
+			height: 1.0d
+			image: "functionalstorage:block/oak_front_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.65d
+			y: -0.35d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7CA8071C22DDC9AE"]
+			id: "71ED73507A7CCB49"
+			tasks: [{
+				id: "447A944180B03401"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["71ED73507A7CCB49"]
+			id: "5035B69030BB2C6E"
+			tasks: [{
+				id: "35E5F1ED923B1A66"
+				item: { count: 1, id: "functionalstorage:linking_tool" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CA8071C22DDC9AE"]
+			id: "2545A04CFD523A92"
+			tasks: [{
+				id: "5F50C65E26B16C41"
+				item: { count: 1, id: "functionalstorage:configuration_tool" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["110B2E421C1CF83D"]
+			id: "74E0F7975630C13F"
+			shape: "rsquare"
+			tasks: [{
+				id: "62CE6F18E735E013"
+				item: { count: 1, id: "functionalstorage:copper_upgrade" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["74E0F7975630C13F"]
+			id: "6FEC54D1F72A73E6"
+			shape: "rsquare"
+			tasks: [{
+				id: "2C9A4BA2D5C7A646"
+				item: { count: 1, id: "functionalstorage:gold_upgrade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6FEC54D1F72A73E6"]
+			id: "4C2EAD9FA8E9656B"
+			shape: "rsquare"
+			tasks: [{
+				id: "389086FE213A27A4"
+				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4C2EAD9FA8E9656B"]
+			id: "247C812EF1180DF0"
+			shape: "rsquare"
+			tasks: [{
+				id: "645DBE836E21D895"
+				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "7CA8071C22DDC9AE"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "61FA44A5E4937DC8"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(functionalstorage:drawer)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["110B2E421C1CF83D"]
+			id: "605E7F36ECAB3199"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "0A47646575DF77FE"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:puller_upgrade" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["110B2E421C1CF83D"]
+			id: "7B1F20216AE91224"
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "66257D87D0455912"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:pusher_upgrade" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["110B2E421C1CF83D"]
+			id: "750E0D30E2AD2C4B"
+			tasks: [{
+				id: "53B5286EFDCE9DD0"
+				item: { count: 1, id: "functionalstorage:void_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["110B2E421C1CF83D"]
+			id: "3743F6DF78799CFB"
+			tasks: [{
+				id: "1073EDD57667EC59"
+				item: { count: 1, id: "functionalstorage:dripping_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7CA8071C22DDC9AE"]
+			id: "110B2E421C1CF83D"
+			shape: "gear"
+			size: 1.15d
+			tasks: [{
+				id: "4A26A5B0BEB3368C"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+	]
+}
