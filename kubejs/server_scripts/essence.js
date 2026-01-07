@@ -46,6 +46,12 @@ ServerEvents.recipes(event => {
             "ingredient": {
                 "item": 'draconicevolution:celestial_manipulator'
             }
+            },
+            {
+            "consume": true,
+            "ingredient": {
+                "item": 'allthecompressed:antimatter_block'
+            }
             }
         ],
         "result": {
@@ -55,4 +61,5 @@ ServerEvents.recipes(event => {
         "techLevel": "draconic",
         "totalEnergy": 256000000
     })
+
 })
