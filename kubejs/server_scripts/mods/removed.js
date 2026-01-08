@@ -12,4 +12,18 @@ ServerEvents.recipes(event => {
     event.remove({output:'draconicevolution:reactor_prt_rotor_full'})
     event.remove({output:'draconicevolution:reactor_prt_out_rotor'})
     event.remove({output:'draconicevolution:reactor_prt_in_rotor'})
+
+    // Algumas seeds do Mystical. Recursos inuteis ou OP
+    const seeds = [
+        'rubber','silicon','saltpeter','apatite','marble','sculk','brass','sky_stone',
+        'constantan', 'ruby', 'sapphire', 'peridot', 'fluix', 'refined_obsidian', 'refined_glowstone',
+        'iridium'
+    ]
+    seeds.forEach(seeds => {
+        event.remove({output:`mysticalagriculture:${seeds}_seeds`})
+    })
+    seeds.forEach(seeds => {
+        event.remove({input:`mysticalagriculture:${seeds}_seeds`})
+    })
+    
 })
