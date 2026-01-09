@@ -2483,7 +2483,7 @@ hash = "17813fcecb22cf97a44c96ffed54b10319ef55f7ed5b0f26a5b1ef549ce036b9"
 
 [[files]]
 file = "kubejs/server_scripts/essence.js"
-hash = "8d4f0b79710d6660b92e2431e1c2e6815ac3dd3765ad58b2dc623515cc86c87e"
+hash = "168be9fbd7c04e2ab06963f0c5f8cf4392bfcdfc9db25ca2d4d5d6a59f250c70"
 
 [[files]]
 file = "kubejs/server_scripts/ingredients.js"
