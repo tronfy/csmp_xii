@@ -3475,6 +3475,11 @@ hash = "4faf8709198ad719950c80d8cc3a2911d80d783fa35ec53b990a9fcc544f1600"
 metafile = true
 
 [[files]]
+file = "mods/playerlistheads.pw.toml"
+hash = "e601fcf8acfce3fe9b3e22810b97d8ca37cfe564e4c6184b96727d98ba797245"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e4b6f465c8a9d3afa97a0a6dbd7939bdbb9f61c8293f59f75a2f98cc4856a99f"
 metafile = true
@@ -3557,6 +3562,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "50947b56c8e23bdd6dc614b05b5541dea9f3d98d7b9cfc7c0c0edfcc3c68047f"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "f576472a039801b5cee68a4130d8bddaa3fbfac0312078b2832d626d13980a5f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "PlayerListHeads"
+filename = "PlayerListHeads-2.0-1.21-1.21.8-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYWNSBG3/versions/7Iioiony/PlayerListHeads-2.0-1.21-1.21.8-NeoForge.jar"
+hash-format = "sha512"
+hash = "3514b27376e6176af3fbbf88f53db4e6e8b99decd240f2de17d8fd4daf28c1c310e79513e76b029cfcad279ffc2cf5eb4290a48af07da701fa1aee9da91b0c59"
+
+[update]
+[update.modrinth]
+mod-id = "BYWNSBG3"
+version = "7Iioiony"
