@@ -3405,6 +3405,11 @@ hash = "d3f07caa7315ade0f248493a84d7e41499798972c83521763aab88471925827b"
 metafile = true
 
 [[files]]
+file = "mods/nedologin.pw.toml"
+hash = "dd6d061cfe09ea8ab15c39e8912b1b98622c09558cfb0eef426684d725388bb5"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "6edd6af7b2d88e8690f7edcb080dc17ebe69789606992bb1d3fb6ddf29abf42f"
 metafile = true
