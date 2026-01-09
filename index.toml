@@ -6,6 +6,10 @@ hash = "4de9c1bfb3d4e8b61430fd905e2344cbf29f0c5466c58400513b993b3f5e0e2e"
 metafile = true
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "266382e1ca75acc7427bbe5d6e352617b35ef6f379338a8a42bda2a3efea194c"
+
+[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
 hash = "dfc602e54e6bb320ed1e4b2dde1c7a71a8b331aa1b51bff95115de2d847ba4da"
 
@@ -2978,6 +2982,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "0b4c6085926c07cc68824634cca88ad80162b73a577c19f5953e794c808814a3"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "aee2740741fccf071aef6b82203ea3facb888bdf3eb370f2ea3797ca3756bc87"
 metafile = true
 
 [[files]]
