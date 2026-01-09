@@ -3247,6 +3247,11 @@ hash = "fbe43b56140be24a3a6d4c090d6b39ccc80be04313efc3c7cab00886979e8f8c"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "4ea155b000509070854a4b8f9b6e790b7f90aa9187cd611a15ee6693fc157cf1"
+metafile = true
+
+[[files]]
 file = "mods/mifa.pw.toml"
 hash = "0f63d3c14923990bc4812d0d9be7d6b8516fc01c258931c63b8577b0a7d34f22"
 metafile = true
