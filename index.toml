@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy.yml"
-hash = "6433ae3070a7fe30703529f1ac64967c49003947e6d0732b33e5422b2d2bf505"
-
-[[files]]
-file = ".vscode/settings.json"
-hash = "9a0cf0dab4b3962a6bcb5f504bb30db57cc2035aea0d9890056022d44d5885f6"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "cf730f60909b7384a2a487fd37c66ac94de6772e0f3459bbfc1e70635bb1786a"
 metafile = true
