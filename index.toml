@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
-hash = "cf730f60909b7384a2a487fd37c66ac94de6772e0f3459bbfc1e70635bb1786a"
+hash = "4de9c1bfb3d4e8b61430fd905e2344cbf29f0c5466c58400513b993b3f5e0e2e"
 metafile = true
 
 [[files]]
@@ -2846,6 +2846,11 @@ hash = "8c683f7856a4176c63d841e640bda56afbe7e009a73eddf822d2a9d752a94990"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "dbf1b55fa703024af47aafaa0fab0af1c972e7faea68e6f46f4467f20f0c837b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "6068e9dba7098eb69fc84c96b4e734daa6493c3ee6817c9ec4e6d8e62d93cb1b"
 metafile = true
@@ -2987,7 +2992,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9cee4168014411780928a7883f36e7b956b4fb411ac15702ef6e353865358a86"
+hash = "e28da59e6851f79e827086ec5406fb9d302cb4adf5035f0c90878afbc8d5ee51"
 metafile = true
 
 [[files]]
@@ -3062,7 +3067,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "0e514090dfcc0dcc6e4ea96cca7599fbd780cfa10d543f146cd46ad3f5e51419"
+hash = "8e437f53ecae80bc4180a230696aaa22f6dc00350a64cfc88617d39505adfb71"
 metafile = true
 
 [[files]]
@@ -3182,7 +3187,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "eea5c849bd5aff4dd3c56b288d1623b177570156520f628a3ce4e4cd8bf8e857"
+hash = "4d063f9bc5d47218a9983ea5d551fce2e0850742cd6ec66b8681cc04c2fb1f42"
 metafile = true
 
 [[files]]
