@@ -2851,7 +2851,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "dbf1b55fa703024af47aafaa0fab0af1c972e7faea68e6f46f4467f20f0c837b"
+hash = "33ea8d2b8449ccb0e6e6a456db71e44c53980a5e38e93a9eecc7257029510889"
 metafile = true
 
 [[files]]
