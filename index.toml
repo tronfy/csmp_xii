@@ -1510,6 +1510,10 @@ file = "config/deeperdarker-common.toml"
 hash = "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "1d540dd34e2d92dcbba721d16ec5439eb4004bb11b98b8f40d96869c01e7410f"
+
+[[files]]
 file = "config/dummmmmmy-client.toml"
 hash = "af605a62ac5b6605bfbc4fba949aa1b1b9c8fefe678792d16ebd87a936aac7ae"
 
@@ -1572,6 +1576,86 @@ hash = "0793f4dbd678de16269b05b78cb8aace3d497162526d10c61bd4b2c723240ea1"
 [[files]]
 file = "config/extremereactors/common.toml"
 hash = "c297887326615f03d6d4560c0a1c74f626b48b1888e51f20209db9bcb0418e57"
+
+[[files]]
+file = "config/fancymenu/assets/capybara.gif"
+hash = "f4b64006a8a5461a2132ad3b18072b388fd49d608bd025d1b336653f3ee52e87"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "eb557369a8bcbb17f3da479a00090801ed4cddf7d35190ceed7f6b95889a7802"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "733c7844186b7ae144a50b9ac16d3f2a358b7895a370bcf6be3b7071e1ebb7cb"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "1c5e0b2322b5709f7a454ef3ebb5cb31388461064dca8e91ca7dc5ea7e257e2e"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "aaaebba3bab951d2df63a7af10a63924fcce6d7e0280ca26070e6b4bf7df4279"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "bb15e5baceb84444c4750f2f05a45535d9032f2931c5a806f6d23939f0d0a94f"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "a230284d3145e4cc6e443b9b00b3db318b41dad1827b1c8044f3514f23c769f0"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "f9e2401bc4a4e881abb5415c12896858c978b7002a8ce243a81e9597d9d526d9"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "976d2ff6ff963177a13596a65334183c5f63d5d948add5f9a2d03806a4f8f565"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "5d8d4ac3d5d215148ac3e1a31ba6b144f24ff0de6d225ee1cca7e3ad853de40a"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_0.png"
+hash = "459393d34d613cde99f521694096bc684fcf5384ec074f827dc42d41177f2954"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_1.png"
+hash = "163b62de082629cec8cf5d57720548ca95fc82efb4639f3cb7640aa9addb1298"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_2.png"
+hash = "61b1b0a800096e9489452f0f4f1c99bcce0016e10c8dfb73cbfc37f32665e6a8"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_3.png"
+hash = "2637371ede30da978a1d0de0c8a74e61034b674092d6a3662a93f52c576aa0d4"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_4.png"
+hash = "3fbbd1e4fd57889c33fdd3e34373cfb693a8bce8d75aef0bda23791ce0beed92"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/panorama/panorama_5.png"
+hash = "3f753f5b5ccfe5c57ae90e84eda4532e0d05a3d385018abde78c7a9be1c94ba4"
+
+[[files]]
+file = "config/fancymenu/panoramas/capybaras/properties.txt"
+hash = "0130b75b3e498f65e4e3844cf17ffe905a882bc6aa627035b657d07a66fae8fb"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "b2980dfb6f4b67caaab525ccc355ffd0007dafc84389c586831792a0e735e353"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "2e2353777c884756983c89ffbfacdac07a370b74eaec84ebc26577e0709765c8"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "f77feb5198295feee4ebe015f8fe7cc0368a7bb0ea03b526d2744e1b336e03cf"
 
 [[files]]
 file = "config/farmingforblockheads-common.toml"
