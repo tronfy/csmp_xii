@@ -2797,11 +2797,6 @@ hash = "12bf199bd62590f977f2938a8fc6af65a6c66fff287cd976c5b96aeb42022dc5"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "4b03bf7e1c804c0a5b1fdb3fd74ffb8d66947394a81fb192311317af04de2b90"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e5664943a2c175b7771737f227346aec7d1d5882aa2dfccfd5cda484d3a7ada5"
 metafile = true
@@ -2928,7 +2923,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1b41e5576e2598f108ff56952c63a24aaa8331497f975b77a5c6c18439cf9ad6"
+hash = "8ec540f6145057c5273669dd3743a06e0d5a77dbbdcfee0fe2e1e5ef8895b31c"
 metafile = true
 
 [[files]]
@@ -3457,11 +3452,6 @@ hash = "50947b56c8e23bdd6dc614b05b5541dea9f3d98d7b9cfc7c0c0edfcc3c68047f"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "d38dcd196dfcf177effdf83fdb20adeae9c38fef8f1872b375ccb0ee48c7c910"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "469b998e72108ebd84a8b9e71a5fd523b4110e0eca16bc493388ddb5b2c35985"
 metafile = true
@@ -3601,6 +3591,10 @@ file = "options.txt"
 hash = "fb6e24002c200e72cf282406b3ffca061cd8a0fc7c479d6288da01d53551b75d"
 
 [[files]]
+file = "resourcepacks/Mekanism CTM-Fusion 1.0.zip"
+hash = "4caf01270a3a3ed739385c31a3377676fce0aabf05c566b2e9987a6c3ad1e5a7"
+
+[[files]]
 file = "resourcepacks/fusion-connected-blocks.pw.toml"
 hash = "65091239575c092b8d23928c6cc26cd4ef94bb4348b6206c1c54eb9e9dc669f8"
 metafile = true
@@ -3608,11 +3602,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "1036f2244bd4ca62d531fdb3e5ea2c81873c3f21419d838a0a133baa3cfa82d0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mekanism-ctm-w-fusion.pw.toml"
-hash = "64b68625c39c5deec836a0f3a9669648f97f95bab62109ad6fae26357a05e6ed"
 metafile = true
 
 [[files]]
